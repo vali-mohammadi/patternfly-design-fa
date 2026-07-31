@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 38**
+**مجموع صفحات دارای front matter در `content/`: 45**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 38 |
+| ترجمه‌شده | 45 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -62,7 +62,10 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/breadcrumb.md` | مسیر راهنما | ترجمه‌شده |
 | `content/olguha/canvas-view.md` | نمای بوم | ترجمه‌شده |
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
+| `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
+| `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
+| `content/olguha/find.md` | یافتن | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
 | `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
@@ -72,12 +75,16 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
+| `content/olguha/sort.md` | مرتب‌سازی | ترجمه‌شده |
 | `content/olguha/table-view.md` | نمای جدولی | ترجمه‌شده |
+| `content/olguha/textbox-filter.md` | فیلتر متنی | ترجمه‌شده |
+| `content/olguha/toolbar.md` | نوار ابزار | ترجمه‌شده |
 | `content/olguha/tree-list-view.md` | نمای فهرست درختی | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
 | `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | ترجمه‌شده |
+| `content/olguha/view-selector.md` | انتخاب‌گر نما | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | ترجمه‌شده |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |

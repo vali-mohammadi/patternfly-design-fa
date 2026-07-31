@@ -40,3 +40,13 @@ status: translated
 - [نمای فهرست درختی](./tree-list-view)
 - [نمای کارتی](./card-view)
 - [نمای بوم](./canvas-view)
+
+## فرم‌ها و کنترل‌ها
+
+- [نوار ابزار](./toolbar)
+- [فیلتر](./filter)
+- [فیلتر چک‌باکسی](./checkbox-filter)
+- [فیلتر متنی](./textbox-filter)
+- [مرتب‌سازی](./sort)
+- [یافتن](./find)
+- [انتخاب‌گر نما](./view-selector)

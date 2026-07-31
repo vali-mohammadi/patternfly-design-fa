@@ -59,6 +59,13 @@
 | `content/olguha/tree-list-view.md` | نمای فهرست درختی | `pattern-library/content-views/tree-list-view/` | ادغام‌وپالایش‌شده — همان الگو |
 | `content/olguha/card-view.md` | نمای کارتی | `pattern-library/content-views/card-view/` | ادغام‌وپالایش‌شده — همان الگو |
 | `content/olguha/canvas-view.md` | نمای بوم | `pattern-library/content-views/canvas-view/` | نگه‌داشته‌شده — جعبه‌ابزار و پنل ویژگی‌ها قرینه شدند |
+| `content/olguha/toolbar.md` | نوار ابزار | `pattern-library/forms-and-controls/toolbar/` | نگه‌داشته‌شده — چیدمان راست‌چین/چپ‌چین قرینه شد؛ مرحلهٔ ۷الف |
+| `content/olguha/filter.md` | فیلتر | `pattern-library/forms-and-controls/filter/` | نگه‌داشته‌شده — محرک فیلتر و ترتیب برچسب‌ها قرینه شدند؛ مرحلهٔ ۷الف |
+| `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | `pattern-library/forms-and-controls/checkbox-filter/` | نگه‌داشته‌شده — مرحلهٔ ۷الف |
+| `content/olguha/textbox-filter.md` | فیلتر متنی | `pattern-library/forms-and-controls/textbox-filter/` | نگه‌داشته‌شده — مرحلهٔ ۷الف |
+| `content/olguha/sort.md` | مرتب‌سازی | `pattern-library/forms-and-controls/sort/` | نگه‌داشته‌شده — مرحلهٔ ۷الف |
+| `content/olguha/find.md` | یافتن | `pattern-library/forms-and-controls/find/` | نگه‌داشته‌شده — واژهٔ «یافتن» برای تفکیک از جستجو/فیلتر ابداع شد؛ مرحلهٔ ۷الف |
+| `content/olguha/view-selector.md` | انتخاب‌گر نما | `pattern-library/forms-and-controls/view-selector/` | نگه‌داشته‌شده — جای‌گیری بالا-راست به بالا-چپ قرینه شد، هماهنگ با نمای فهرستی/کارتی؛ مرحلهٔ ۷الف |
 
 ## `content/rast-be-chin/`
 
