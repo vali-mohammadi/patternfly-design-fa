@@ -16,3 +16,11 @@ status: translated
 - [کارت روند](./trend-card)
 - [کارت نوار بهره‌وری](./utilization-bar-card)
 - [کارت روند بهره‌وری](./utilization-trend-card)
+
+## ناوبری
+
+- [مسیر راهنما](./breadcrumb)
+- [صفحه‌بندی](./pagination)
+- [انتخاب‌گر زمینه](./context-selector)
+- [راهبری افقی](./horizontal-navigation)
+- [راهبری عمودی تفصیلی](./vertical-navigation-detail) — اصول کلی در [نظام راهبری](../moallefeha/navigation-system)

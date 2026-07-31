@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 23**
+**مجموع صفحات دارای front matter در `content/`: 28**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 1 |
-| ترجمه‌شده | 22 |
+| ترجمه‌شده | 27 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -59,10 +59,15 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/moallefeha/progress-bar.md` | نوار پیشرفت | ترجمه‌شده |
 | `content/olguha/aggregate-status-card.md` | کارت وضعیت تجمیعی | ترجمه‌شده |
 | `content/olguha/base-card.md` | کارت پایه | ترجمه‌شده |
+| `content/olguha/breadcrumb.md` | مسیر راهنما | ترجمه‌شده |
+| `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
+| `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
+| `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
+| `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |

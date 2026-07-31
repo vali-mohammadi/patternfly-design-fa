@@ -43,6 +43,12 @@
 | `content/olguha/trend-card.md` | کارت روند | `pattern-library/cards/trend-card/` | ادغام‌وپالایش‌شده — چند جای‌گیری نسبت به اسپارک‌لاین قرینه شدند |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | `pattern-library/cards/utilization-bar-card/` | ادغام‌وپالایش‌شده — دو چیدمان توضیح/برچسب قرینه شدند |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | `pattern-library/cards/utilization-trend-card/` | ادغام‌وپالایش‌شده — ترازبندی برچسب/مقدار/بازهٔ زمانی قرینه شد |
+| `content/olguha/breadcrumb.md` | مسیر راهنما | `pattern-library/navigation/breadcrumbs/` | نگه‌داشته‌شده — آیکون جداکننده و تعویض‌گر قرینه شدند |
+| `content/olguha/pagination.md` | صفحه‌بندی | `pattern-library/navigation/pagination/` | نگه‌داشته‌شده |
+| `content/olguha/context-selector.md` | انتخاب‌گر زمینه | `pattern-library/navigation/context-selector/` | نگه‌داشته‌شده |
+| `content/olguha/horizontal-navigation.md` | راهبری افقی | `pattern-library/navigation/horizontal-navigation/` | نگه‌داشته‌شده — پیش‌فرض «چپ‌ترین مورد» به «راست‌ترین» قرینه شد |
+| `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | `pattern-library/navigation/vertical-navigation/` | نگه‌داشته‌شده — با `content/moallefeha/navigation-system.md` هم‌پوشانی خلاصه دارد، عمداً؛ کشوی راهبری و کشوی اعلان‌ها هر دو قرینه شدند و در سمت مخالف هم باقی ماندند |
+| `pattern-library/navigation/guidelines/` | — | — | **کنارگذاشته‌شده** — تکرار تصمیم‌های «کِی افقی/کِی عمودی» که در `horizontal-navigation.md`، `vertical-navigation.md`، و `moallefeha/navigation-system.md` از قبل آمده |
 
 ## `content/rast-be-chin/`
 
@@ -60,3 +66,4 @@
 | مسیر بالادستی | دلیل |
 |---|---|
 | `site.md` front matter در سراسر `pattern-library/` | کلیدهای `code_html`, `code_angular`, `impl_jquery`, `impl_angular`, `impl_ng` به سایت PatternFly 3 اشاره می‌کنند که این پروژه استفاده نمی‌کند |
+| `pattern-library/navigation/guidelines/` | تکرار محض تصمیم‌های «کِی افقی/کِی عمودی استفاده شود» که در سه صفحهٔ دیگر همین مرحله از قبل پوشش داده شده |
