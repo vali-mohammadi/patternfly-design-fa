@@ -79,6 +79,10 @@
 | `content/olguha/progressive-disclosure.md` | افشای تدریجی | `pattern-library/forms-and-controls/progressive-disclosure/` | نگه‌داشته‌شده — تورفتگی فیلد فرزند قرینه شد؛ مرحلهٔ ۷د |
 | `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | `pattern-library/forms-and-controls/expand-collapse-section/` | نگه‌داشته‌شده — همان قاعدهٔ فلش گسترش نمای جدولی/درختی اعمال شد؛ مرحلهٔ ۷د |
 | `content/olguha/inline-edit.md` | ویرایش درون‌خطی | `pattern-library/forms-and-controls/inline-edit/` | نگه‌داشته‌شده — موقعیت دکمه‌های ذخیره/لغو در همهٔ نماها قرینه شد؛ آیکون‌های تیک/X خودشان قرینه نشدند فقط موقعیتشان؛ مرحلهٔ ۷د |
+| `content/olguha/date-and-time.md` | تاریخ و ساعت | `pattern-library/forms-and-controls/date-and-time/` | ادغام‌وپالایش‌شده — تقویم میلادی‌محور اصلی به شمسی اصلاح شد (ارجاع به taghvim.md)؛ آیکون تقویم/ساعت قرینه شد؛ دکمهٔ قبل‌ازظهر/بعدازظهر با پیشنهاد اصیل قالب ۲۴ساعته جایگزین شد؛ مرحلهٔ ۷ه |
+| `content/olguha/slider.md` | اسلایدر | `pattern-library/forms-and-controls/slider/` | نگه‌داشته‌شده — برچسب، ناحیهٔ پرشده، و فیلد ورودی قرینه شدند؛ مرحلهٔ ۷ه |
+| `content/olguha/language-selector.md` | انتخاب‌گر زبان | `pattern-library/forms-and-controls/language-selector/` | نگه‌داشته‌شده — ⚠️ اولین کاربرد واقعی `lint_exempt_encoding` (نقل‌قول واقعی «العربية»)؛ جای‌گیری در صفحهٔ ورود قرینه شد؛ مرحلهٔ ۷ه |
+| `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | `pattern-library/forms-and-controls/copy-to-clipboard/` | نگه‌داشته‌شده — محو متن و فلش گسترش قرینه شدند، آیکون تیک قرینه نشد؛ مرحلهٔ ۷ه |
 
 ## `content/rast-be-chin/`
 

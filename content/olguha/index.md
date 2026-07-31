@@ -63,3 +63,7 @@ status: translated
 - [افشای تدریجی](./progressive-disclosure)
 - [بخش باز/بسته‌شدنی](./expand-collapse-section)
 - [ویرایش درون‌خطی](./inline-edit)
+- [تاریخ و ساعت](./date-and-time)
+- [اسلایدر](./slider)
+- [انتخاب‌گر زبان](./language-selector)
+- [کپی در کلیپ‌بورد](./copy-to-clipboard)
