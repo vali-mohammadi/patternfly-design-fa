@@ -39,8 +39,8 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 
 | وضعیت | تعداد |
 |---|---|
-| پیش‌نویس | 1 |
-| ترجمه‌شده | 37 |
+| پیش‌نویس | 0 |
+| ترجمه‌شده | 38 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -79,7 +79,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
 | `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
-| `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
+| `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | ترجمه‌شده |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |
 | `content/rast-be-chin/qarinesazi.md` | اصول قرینه‌سازی | ترجمه‌شده |
 | `content/rast-be-chin/taghvim.md` | تقویم و تاریخ | ترجمه‌شده |
