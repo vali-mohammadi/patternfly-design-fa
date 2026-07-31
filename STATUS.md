@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 70**
+**مجموع صفحات دارای front matter در `content/`: 74**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 70 |
+| ترجمه‌شده | 74 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -66,6 +66,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/canvas-view.md` | نمای بوم | ترجمه‌شده |
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
 | `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | ترجمه‌شده |
+| `content/olguha/classification-banner.md` | بنر طبقه‌بندی | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
@@ -91,11 +92,14 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/loading-state.md` | حالت بارگذاری | ترجمه‌شده |
 | `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
 | `content/olguha/masthead.md` | هدر برنامه | ترجمه‌شده |
+| `content/olguha/message-dialog.md` | کادر پیام | ترجمه‌شده |
 | `content/olguha/modal-overlay.md` | روی‌هم‌افکن مودال | ترجمه‌شده |
 | `content/olguha/modeless-overlay.md` | روی‌هم‌افکن بدون‌مودال | ترجمه‌شده |
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
+| `content/olguha/notification-drawer.md` | کشوی اعلان‌ها | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
 | `content/olguha/progressive-disclosure.md` | افشای تدریجی | ترجمه‌شده |
+| `content/olguha/session-timeout.md` | پایان نشست | ترجمه‌شده |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
 | `content/olguha/slider.md` | اسلایدر | ترجمه‌شده |
 | `content/olguha/sort.md` | مرتب‌سازی | ترجمه‌شده |

@@ -78,3 +78,7 @@ status: translated
 - [اعلان توست](./toast-notifications)
 - [حالت بارگذاری](./loading-state)
 - [اعلان درون‌خطی](./inline-notifications)
+- [کادر پیام](./message-dialog)
+- [کشوی اعلان‌ها](./notification-drawer)
+- [پایان نشست](./session-timeout)
+- [بنر طبقه‌بندی](./classification-banner)

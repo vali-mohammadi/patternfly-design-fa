@@ -92,6 +92,10 @@
 | `content/olguha/toast-notifications.md` | اعلان توست | `pattern-library/communication/toast-notifications/` | نگه‌داشته‌شده — رزرو گلوسری «toast» بسته شد؛ موقعیت اعلان و کنش قرینه شدند؛ مرحلهٔ ۸الف |
 | `content/olguha/loading-state.md` | حالت بارگذاری | `pattern-library/communication/loading-state/` | نگه‌داشته‌شده — ارجاع رو به جلو در نمای جدولی به لینک واقعی ارتقا یافت؛ مرحلهٔ ۸الف |
 | `content/olguha/inline-notifications.md` | اعلان درون‌خطی | `pattern-library/communication/inline-notifications/` | نگه‌داشته‌شده — ارجاع به مسئلهٔ نبود تمایز alert/warning در گلوسری داده شد؛ مرحلهٔ ۸الف |
+| `content/olguha/message-dialog.md` | کادر پیام | `pattern-library/communication/message-dialog/` | نگه‌داشته‌شده — مرحلهٔ ۸ب |
+| `content/olguha/notification-drawer.md` | کشوی اعلان‌ها | `pattern-library/communication/notification-drawer/` | نگه‌داشته‌شده — نشان، بستن، و آیکون گسترش قرینه شدند؛ ارجاعات رو به جلو در `toast-notifications.md` و `masthead.md` به لینک واقعی ارتقا یافتند؛ مرحلهٔ ۸ب |
+| `content/olguha/session-timeout.md` | پایان نشست | `pattern-library/communication/session-timeout/` | نگه‌داشته‌شده — مرحلهٔ ۸ب |
+| `content/olguha/classification-banner.md` | بنر طبقه‌بندی | `pattern-library/communication/classification-banner/` | نگه‌داشته‌شده — دکمهٔ بستن قرینه شد؛ یادداشت دربارهٔ عدم تطبیق مستقیم با بازار ایران اضافه شد؛ مرحلهٔ ۸ب |
 
 ## `content/rast-be-chin/`
 
