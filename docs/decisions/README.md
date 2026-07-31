@@ -11,6 +11,7 @@
 | [terminology-rule.md](./terminology-rule.md) | [#4](https://github.com/vali-mohammadi/patternfly-design-fa/issues/4) | قاعدهٔ دسته‌بندی واژگان بر اساس بافت نوشتاری، نه نوع واژه |
 | [teaching-layer.md](./teaching-layer.md) | [#5](https://github.com/vali-mohammadi/patternfly-design-fa/issues/5) | بخش مستقل + یادداشت‌های درون‌متنی، پنج نوع callout، طرح کلی محتوا |
 | [writing-conventions.md](./writing-conventions.md) | [#6](https://github.com/vali-mohammadi/patternfly-design-fa/issues/6) | جایگزین کامل شیوه‌نامهٔ انگلیسی بالادستی: نیم‌فاصله، نشانه‌گذاری، اعداد، کسرهٔ اضافه، تقویم، لحن |
+| [information-architecture.md](./information-architecture.md) | [#7](https://github.com/vali-mohammadi/patternfly-design-fa/issues/7) | درخت `content/`، سیاست نشانی (لاتین)، ساختار تک‌فایلی هر صفحه، `UPSTREAM-MAP.md` |
 
 گلوسری زندهٔ کامل: [`docs/glossary.md`](../glossary.md) — بذر اولیه از پژوهش، در حال رشد با
 هر دسته ترجمه.
