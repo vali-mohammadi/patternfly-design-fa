@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>مسیر راهنما — پیش‌نمونهٔ سایت RTL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Estedad:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --pf-fa-font: 'Estedad', -apple-system, 'Segoe UI', sans-serif;
+    --bg: #ffffff; --fg: #151515; --muted: #6a6e73; --border: #d2d2d2; --accent: #0066cc;
+    --callout-bg: #f5f5f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151515; --fg: #f0f0f0; --muted: #b8bbbe; --border: #444; --accent: #73bcf7; --callout-bg: #1e1e1e; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: var(--pf-fa-font);
+    background: var(--bg); color: var(--fg);
+    max-width: 46rem; margin: 2rem auto; padding: 0 1.5rem;
+    line-height: 1.9; font-size: 17px;
+  }
+  h1 { font-size: 1.9rem; margin-block-end: .25rem; }
+  .meta { color: var(--muted); font-size: .9rem; margin-block-end: 1.5rem; }
+  .gloss { color: var(--muted); direction: ltr; unicode-bidi: isolate; font-size: .85em; }
+  blockquote {
+    background: var(--callout-bg); border-inline-start: 4px solid var(--accent);
+    margin-inline-start: 0; padding: .75rem 1rem; border-radius: 4px;
+  }
+  blockquote strong { color: var(--accent); }
+  figure { margin-inline-start: 0; margin-inline-end: 0; }
+  figure img { max-width: 100%; border: 1px solid var(--border); border-radius: 6px; }
+  figcaption { color: var(--muted); font-size: .85rem; margin-block-start: .5rem; }
+  table { width: 100%; border-collapse: collapse; margin-block: 1rem; }
+  th, td { border: 1px solid var(--border); padding: .5rem .75rem; text-align: start; }
+  th:first-child, td:first-child { direction: ltr; unicode-bidi: isolate; font-family: monospace; text-align: end; }
+  code { direction: ltr; unicode-bidi: isolate; background: var(--callout-bg); padding: .1em .35em; border-radius: 3px; font-size: .9em; }
+  .breadcrumb { display: flex; gap: .5rem; list-style: none; padding: 0; margin: 1rem 0; direction: rtl; }
+  .breadcrumb li::after { content: "‹"; margin-inline-start: .5rem; color: var(--muted); }
+  .breadcrumb li:last-child::after { content: ""; }
+  .breadcrumb a { color: var(--accent); text-decoration: none; }
+  .num { font-variant-numeric: normal; }
+</style>
+</head>
+<body>
+
+<nav aria-label="مسیر راهنما">
+  <ul class="breadcrumb">
+    <li><a href="#">خانه</a></li>
+    <li><a href="#">مؤلفه‌ها</a></li>
+    <li>مسیر راهنما</li>
+  </ul>
+</nav>
+
+<h1>مسیر راهنما <span class="gloss">Breadcrumb</span></h1>
+<p class="meta">به‌روزرسانی: ۹ مرداد ۱۴۰۴ · نسخه: <code>v6</code></p>
+
+<p>
+  <strong>مسیر راهنما (Breadcrumb)</strong> موقعیت کاربر را در سلسله‌مراتب اطلاعاتی برنامه
+  نشان می‌دهد و راهی سریع برای بازگشت به سطوح بالاتر فراهم می‌کند. پس از اولین اشاره، در ادامهٔ
+  همین صفحه فقط از «مسیر راهنما» استفاده می‌شود.
+</p>
+
+<blockquote>
+  <strong>قرینه‌سازی:</strong> نشانگرهای مسیر راهنما و ترتیب مسیر، هر دو قرینه می‌شوند —
+  ریشه در انتهای راست، موقعیت فعلی در انتهای چپ. جزئیات کامل در
+  <a href="../mirror-table.md">جدول قرینه‌سازی</a>.
+</blockquote>
+
+<figure>
+  <img src="https://raw.githubusercontent.com/patternfly/patternfly-design/master/pattern-library/navigation/breadcrumbs/design/img/breadcrumb-current.png" alt="نمونهٔ چیدمان مسیر راهنما با نشانگرهای جداکننده">
+  <figcaption>
+    تصویر بالا چپ‌به‌راست (LTR) است؛ در چیدمان راست‌به‌چین فارسی، این ترتیب قرینه می‌شود.
+  </figcaption>
+</figure>
+
+<blockquote>
+  <strong>دام رایج:</strong> جهت خودِ نشانگر (‹ در برابر ›) را بدون بازبینی حالت hover و
+  ترتیب پیوندها قرینه نکنید — اگر فقط نماد را با <code>scaleX(-1)</code> بچرخانید ولی ترتیب
+  آیتم‌های DOM را نگه دارید، مسیر راهنما هم از نظر بصری و هم از نظر خواننده‌های صفحه‌نمایش
+  نادرست خوانده می‌شود.
+</blockquote>
+
+<h2>ویژگی‌ها</h2>
+<table>
+  <thead><tr><th>Prop</th><th>توضیح</th></tr></thead>
+  <tbody>
+    <tr><td>isActive</td><td>موقعیت فعلی و غیرقابل‌کلیک را نشان می‌دهد</td></tr>
+    <tr><td>showDivider</td><td>جداکنندهٔ بین آیتم‌ها را نمایش می‌دهد</td></tr>
+  </tbody>
+</table>
+
+<p style="color: var(--muted); font-size: .85rem; border-top: 1px solid var(--border); padding-top: 1rem;">
+  پیش‌نمونهٔ استاتیک برای تیکت #9 — قلم Estedad (Google Fonts)، <code>dir="rtl"</code> روی
+  <code>&lt;html&gt;</code>، خواص منطقی CSS، پشتیبانی از حالت تیره.
+</p>
+
+</body>
+</html>
