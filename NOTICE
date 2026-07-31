@@ -1,0 +1,47 @@
+patternfly-design-fa
+Copyright 2026 the patternfly-design-fa contributors
+
+This product includes derivative work based on:
+
+  patternfly-design (https://github.com/patternfly/patternfly-design)
+  Copyright 2016-2026 Red Hat, Inc. and the PatternFly project contributors
+  Licensed under the Apache License, Version 2.0
+
+---
+
+اعلان انتساب و مجوز
+
+این مخزن، اقتباسی فارسی و راست‌به‌چین (RTL) از نظام طراحی PatternFly است که با مجوز
+Apache License 2.0 منتشر می‌شود. محتوای این پروژه بر پایهٔ patternfly-design ساخته شده،
+اما یک ترجمهٔ یک‌به‌یک نیست: راهنماها برای چیدمان راست‌به‌چین بازآرایی (قرینه‌سازی) شده‌اند،
+واژگان طبق قاعده‌ای مستند بازبینی شده، و بخش‌هایی کاملاً تازه — به‌ویژه لایهٔ آموزشی
+راست‌به‌چین در برابر چپ‌به‌راست — به آن افزوده شده که در نسخهٔ اصلی وجود ندارد.
+
+این پروژه یک اقتباس غیررسمی و مستقل جامعهٔ فارسی‌زبان است و هیچ‌گونه وابستگی، تأیید یا
+پشتیبانی رسمی از سوی Red Hat, Inc.، بنیاد PatternFly یا مشارکت‌کنندگان پروژهٔ اصلی ندارد.
+نام «PatternFly» علامت تجاری Red Hat, Inc. است و مجوز Apache 2.0 هیچ حقی نسبت به آن اعطا
+نمی‌کند؛ این پروژه صرفاً برای توصیف رابطه با نظام طراحی اصلی به آن اشاره می‌کند.
+
+هر فایلی که نسبت به منبع اصلی تغییر کرده، مطابق بند ۴(ب) مجوز Apache 2.0 به‌طور ضمنی
+دگرگون‌شده تلقی می‌شود؛ در عمل این شامل تقریباً تمام فایل‌های محتوایی این مخزن است.
+
+---
+
+Unofficial-fork and trademark notice
+
+This repository is a Persian, right-to-left (RTL) adaptation of the PatternFly
+design system, licensed under the Apache License 2.0. It is built on
+patternfly-design but is not a literal, one-to-one translation: directional
+guidance has been mirrored for RTL layout, terminology has been revised against
+a documented rule, and original sections — most notably a Persian RTL-vs-LTR
+design teaching layer — have been added that do not exist upstream.
+
+This is an unofficial, independent, community adaptation. It is not affiliated
+with, endorsed by, or supported by Red Hat, Inc., the PatternFly project, or
+its contributors. "PatternFly" is a trademark of Red Hat, Inc. The Apache 2.0
+license grants no rights to that mark; it is referenced here solely to
+describe this project's relationship to the upstream design system.
+
+Per Apache 2.0 §4(b), every file that differs from the upstream source is
+considered a modified file — in practice, nearly every content file in this
+repository.

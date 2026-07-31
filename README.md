@@ -1,8 +1,49 @@
-Welcome to patternfly-design!
-=============================
+# نظام طراحی فارسی PatternFly — patternfly-design-fa
 
-The "patternfly-design" repo is a place for tracking design work for the PatternFly project. You can see our issues backlog and work in progress in the [PF4 Design Workspace](https://app.zenhub.com/workspaces/pf4-design-workspace-5b2142ff9499cb7cdaf1e632/board?repos=39903854,61041252&showPRs=false&showClosed=false&showLabels=false&showEpics=false)
+> ⚠️ **این یک اقتباس غیررسمی است.** هیچ وابستگی، تأیید یا پشتیبانی رسمی از سوی Red Hat یا
+> پروژهٔ PatternFly ندارد. جزئیات در [NOTICE](./NOTICE).
 
-Request a new feature or feature enhancement by opening a new issue in this repo. Issues will be reviewed monthly and, if accepted, placed on the [PatternFly Feature Roadmap](https://github.com/orgs/patternfly/projects/4). Visit our [contribution page](https://www.patternfly.org/v4/contribute/design) to learn more about contributing to patternfly-design.
+اقتباسی فارسی و **راست‌به‌چین (RTL)** از نظام طراحی [PatternFly](https://www.patternfly.org) —
+نه ترجمه‌ای واژه‌به‌واژه، بلکه بازنویسی و بازآرایی راهنماهای طراحی برای طراحان فارسی‌زبان:
+چیدمان‌ها برای راست‌به‌چین قرینه شده‌اند، واژگان طبق یک قاعدهٔ مستند بازبینی شده، و بخش‌هایی
+تازه — به‌ویژه راهنمای تفاوت طراحی راست‌به‌چین و چپ‌به‌راست — اضافه شده که در نسخهٔ اصلی
+وجود ندارد.
 
-Note: this repo also holds content exposed on the PatternFly 3 website in the `pattern-library` and `styles` folders. This content is maintained for anyone still using PatternFly 3. The most recent PatternFly 4 icon SVG's and associated files can be found in the `resources` folder.
+## وضعیت این پروژه
+
+این پروژه **مرحله‌به‌مرحله** پیش می‌رود، نه یک‌باره. وضعیت فعلی و گام بعدی همیشه در
+**[STATUS.md](./STATUS.md)** ثبت است.
+
+نقشهٔ راه کامل تصمیم‌ها و دسته‌های ترجمه در Issue شمارهٔ ۱ نگه‌داری می‌شود:
+[نقشهٔ راه: نظام طراحی فارسی PatternFly](https://github.com/vali-mohammadi/patternfly-design-fa/issues/1)
+
+## ساختار مخزن (در حال شکل‌گیری)
+
+| مسیر | محتوا |
+|---|---|
+| [`docs/decisions/`](./docs/decisions) | سیاست‌های تصمیم‌گیری‌شده: گلوسری، شیوه‌نامهٔ نگارش، جدول قرینه‌سازی، قلم، یکسان‌سازی کدگذاری |
+| [`research/`](./research) | یافته‌های پژوهشی پشتوانهٔ این تصمیم‌ها، با منبع |
+| `content/` | *(هنوز ساخته نشده — منتظر تصمیم معماری اطلاعات)* محتوای نهایی ترجمه‌شده |
+| `pattern-library/`, `patternfly-4/`, `styles/` | محتوای اصلی انگلیسی PatternFly، هنوز دست‌نخورده — منبع بازبینی و ترجمه |
+
+## مجوز
+
+Apache License 2.0 — به [LICENSE](./LICENSE) و [NOTICE](./NOTICE) نگاه کنید.
+
+---
+
+## English
+
+**patternfly-design-fa** is a Persian, right-to-left (RTL) adaptation of the
+[PatternFly](https://www.patternfly.org) design system — not a literal translation, but a
+curated rewrite for Persian designers. Directional guidance is mirrored for RTL, terminology
+follows a documented rule, and original sections not present upstream — notably an RTL-vs-LTR
+design teaching layer — are being added.
+
+**This is an unofficial adaptation**, not affiliated with, endorsed by, or supported by
+Red Hat, Inc. or the PatternFly project. See [NOTICE](./NOTICE).
+
+Delivered in staged batches — current status and next steps: **[STATUS.md](./STATUS.md)**.
+Full decision map: [issue #1](https://github.com/vali-mohammadi/patternfly-design-fa/issues/1).
+
+Licensed under Apache License 2.0 — see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
