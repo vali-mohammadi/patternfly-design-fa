@@ -54,6 +54,11 @@
 | `content/olguha/login.md` | صفحهٔ ورود | `pattern-library/application-framework/login-page/` | ادغام‌وپالایش‌شده — ساختار کارت مشترک با ورود چندمرحله‌ای و ورود یکپارچه، برای جلوگیری از تکرار سه‌باره، اینجا مرکزی نگه‌داشته شد |
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | `pattern-library/application-framework/multi-factor-login/` | ادغام‌وپالایش‌شده — فقط تفاوت با کارت پایه، با ارجاع به `login.md` |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | `pattern-library/application-framework/single-sign-on/` | ادغام‌وپالایش‌شده — فقط تفاوت با کارت پایه، با ارجاع به `login.md` |
+| `content/olguha/table-view.md` | نمای جدولی | `pattern-library/content-views/table-view/` | نگه‌داشته‌شده — نقطهٔ مرجع رفتار مشترک (هاور/انتخاب/باز، حالت خالی/بارگذاری) که سایر نماها به آن ارجاع می‌دهند؛ فلش گسترش قرینه شد |
+| `content/olguha/list-view.md` | نمای فهرستی | `pattern-library/content-views/list-view/` | ادغام‌وپالایش‌شده — رفتار مشترک به `table-view.md` ارجاع دارد |
+| `content/olguha/tree-list-view.md` | نمای فهرست درختی | `pattern-library/content-views/tree-list-view/` | ادغام‌وپالایش‌شده — همان الگو |
+| `content/olguha/card-view.md` | نمای کارتی | `pattern-library/content-views/card-view/` | ادغام‌وپالایش‌شده — همان الگو |
+| `content/olguha/canvas-view.md` | نمای بوم | `pattern-library/content-views/canvas-view/` | نگه‌داشته‌شده — جعبه‌ابزار و پنل ویژگی‌ها قرینه شدند |
 
 ## `content/rast-be-chin/`
 

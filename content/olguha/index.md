@@ -32,3 +32,11 @@ status: translated
 - [صفحهٔ ورود](./login)
 - [ورود چندمرحله‌ای](./multi-factor-login)
 - [ورود یکپارچه](./single-sign-on)
+
+## نمایش محتوا
+
+- [نمای جدولی](./table-view)
+- [نمای فهرستی](./list-view)
+- [نمای فهرست درختی](./tree-list-view)
+- [نمای کارتی](./card-view)
+- [نمای بوم](./canvas-view)
