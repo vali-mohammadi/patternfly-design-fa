@@ -68,7 +68,7 @@
 | `content/rast-be-chin/qarinesazi.md` | اصول قرینه‌سازی | — | تازه‌بدون‌منبع (خلاصهٔ آموزشی [mirror-table.md](./docs/decisions/mirror-table.md)) |
 | `content/rast-be-chin/taypografi.md` | تایپوگرافی و اعداد فارسی | — | تازه‌بدون‌منبع |
 | `content/rast-be-chin/taghvim.md` | تقویم و تاریخ | — | تازه‌بدون‌منبع |
-| `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | — | تازه‌بدون‌منبع — بازنویسی‌شده بر اساس [پژوهش #21](https://github.com/vali-mohammadi/patternfly-design-fa/issues/21)؛ بخش آدرس همچنان اعتماد پایین دارد (نیاز به بازبینی فرم‌های واقعی) |
+| `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | — | تازه‌بدون‌منبع — بازنویسی‌شده بر اساس [پژوهش #21](https://github.com/vali-mohammadi/patternfly-design-fa/issues/21)، سپس با دور دوم پژوهش (منابع اولیه: فرم دولتی، صفحهٔ رنگ زندهٔ سونت) اصلاح شد؛ ادعای اولیهٔ ساختار آدرس تصحیح شد. فیلدبه‌فیلد فرم‌های واقعی دیوار/اسنپ/دیجی‌کالا همچنان شکاف باز است |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | — | تازه‌بدون‌منبع، تجمیعی |
 
 ## کنارگذاشته‌شده تا این لحظه
