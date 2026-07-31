@@ -14,6 +14,8 @@
 | [information-architecture.md](./information-architecture.md) | [#7](https://github.com/vali-mohammadi/patternfly-design-fa/issues/7) | درخت `content/`، سیاست نشانی (لاتین)، ساختار تک‌فایلی هر صفحه، `UPSTREAM-MAP.md` |
 | [priority-list.md](./priority-list.md) | [#8](https://github.com/vali-mohammadi/patternfly-design-fa/issues/8) | ۱۱ مرحله، کوچک/فعلی اول؛ فقط دو مرحلهٔ اول اکنون تیکت شده‌اند |
 | [site-toolchain.md](./site-toolchain.md) | [#9](https://github.com/vali-mohammadi/patternfly-design-fa/issues/9) | Eleventy به‌جای Jekyll؛ اثبات‌شده با [پیش‌نمونهٔ زندهٔ RTL](./prototype/index.html) |
+| [status-tooling.md](./status-tooling.md) | [#10](https://github.com/vali-mohammadi/patternfly-design-fa/issues/10) | `script/status-fa.js` — رصد وضعیت خودکار، بدون وابستگی بیرونی |
+| [translation-pipeline.md](./translation-pipeline.md) | [#11](https://github.com/vali-mohammadi/patternfly-design-fa/issues/11) | یک نشست برای ترجمه+قرینه‌سازی+آموزش؛ `script/lint-fa.js` برای کنترل کیفیت |
 
 گلوسری زندهٔ کامل: [`docs/glossary.md`](../glossary.md) — بذر اولیه از پژوهش، در حال رشد با
 هر دسته ترجمه.
