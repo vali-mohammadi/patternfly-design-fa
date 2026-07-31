@@ -110,6 +110,7 @@
 | `content/olguha/sparkline.md` | اسپارک‌لاین | `pattern-library/data-visualization/sparkline/` | نگه‌داشته‌شده — رزرو گلوسری غیررسمی (پرانتزی در trend-card.md) بسته شد؛ قاعدهٔ محور زمان اعمال شد؛ ارجاعات رو به جلو در trend-card.md و utilization-trend-card.md ارتقا یافتند؛ مرحلهٔ ۹ب |
 | `content/olguha/timeline.md` | خط زمان | `pattern-library/data-visualization/timeline/` | نگه‌داشته‌شده — پیچیده‌ترین کاربرد قاعدهٔ محور زمان تا این لحظه؛ یادداشت صریح که فرمان‌های تعاملی کشیدن نسبت به جریان زمان (قرینه‌نشده) تعریف می‌شوند، نه جهت خواندن صفحه؛ مرحلهٔ ۹ب |
 | `content/olguha/utilization-bar-chart.md` | نمودار نوار بهره‌وری | `pattern-library/data-visualization/utilization-bar-chart/` | نگه‌داشته‌شده — نوار پیشرفت خطی، کامل قرینه شد؛ ارجاعات رو به جلو در utilization-bar-card.md، donut-chart.md، bar-chart.md ارتقا یافتند؛ مرحلهٔ ۹ب — **این مرحله (۹ — تصویرسازی داده) را کامل کرد** |
+| `content/olguha/dashboard-layout.md` | چیدمان داشبورد | `pattern-library/dashboard/dashboard-layout/` | نگه‌داشته‌شده — عنوان پنل و کنش بازخوانی قرینه شدند؛ مرحلهٔ ۱۰ — **آخرین ردیف فهرست اولویت priority-list.md؛ این مرحله بخش ترجمهٔ محتوای نقشهٔ راه را به‌طور کامل تمام کرد** |
 
 ## `content/rast-be-chin/`
 

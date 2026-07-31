@@ -99,3 +99,7 @@ status: translated
 - [اسپارک‌لاین](./sparkline)
 - [خط زمان](./timeline)
 - [نمودار نوار بهره‌وری](./utilization-bar-chart)
+
+## داشبورد
+
+- [چیدمان داشبورد](./dashboard-layout)

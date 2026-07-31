@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 88**
+**مجموع صفحات دارای front matter در `content/`: 89**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 88 |
+| ترجمه‌شده | 89 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -73,6 +73,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/comments.md` | نظرات | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | ترجمه‌شده |
+| `content/olguha/dashboard-layout.md` | چیدمان داشبورد | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
 | `content/olguha/date-and-time.md` | تاریخ و ساعت | ترجمه‌شده |
 | `content/olguha/donut-chart.md` | نمودار دونات | ترجمه‌شده |
