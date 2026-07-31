@@ -10,6 +10,7 @@
 | [persian-encoding-fold.md](./persian-encoding-fold.md) | [#15](https://github.com/vali-mohammadi/patternfly-design-fa/issues/15) | جدول یکسان‌سازی کدگذاری برای جست‌وجو/مقایسه |
 | [terminology-rule.md](./terminology-rule.md) | [#4](https://github.com/vali-mohammadi/patternfly-design-fa/issues/4) | قاعدهٔ دسته‌بندی واژگان بر اساس بافت نوشتاری، نه نوع واژه |
 | [teaching-layer.md](./teaching-layer.md) | [#5](https://github.com/vali-mohammadi/patternfly-design-fa/issues/5) | بخش مستقل + یادداشت‌های درون‌متنی، پنج نوع callout، طرح کلی محتوا |
+| [writing-conventions.md](./writing-conventions.md) | [#6](https://github.com/vali-mohammadi/patternfly-design-fa/issues/6) | جایگزین کامل شیوه‌نامهٔ انگلیسی بالادستی: نیم‌فاصله، نشانه‌گذاری، اعداد، کسرهٔ اضافه، تقویم، لحن |
 
 گلوسری زندهٔ کامل: [`docs/glossary.md`](../glossary.md) — بذر اولیه از پژوهش، در حال رشد با
 هر دسته ترجمه.
