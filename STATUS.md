@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 66**
+**مجموع صفحات دارای front matter در `content/`: 70**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 66 |
+| ترجمه‌شده | 70 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -72,6 +72,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/date-and-time.md` | تاریخ و ساعت | ترجمه‌شده |
 | `content/olguha/drag-and-drop.md` | کشیدن‌وانداختن | ترجمه‌شده |
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
+| `content/olguha/empty-state.md` | حالت خالی | ترجمه‌شده |
 | `content/olguha/errors-and-validation.md` | خطاها و اعتبارسنجی | ترجمه‌شده |
 | `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | ترجمه‌شده |
 | `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | ترجمه‌شده |
@@ -82,10 +83,12 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
 | `content/olguha/inline-edit.md` | ویرایش درون‌خطی | ترجمه‌شده |
+| `content/olguha/inline-notifications.md` | اعلان درون‌خطی | ترجمه‌شده |
 | `content/olguha/labels.md` | برچسب | ترجمه‌شده |
 | `content/olguha/language-selector.md` | انتخاب‌گر زبان | ترجمه‌شده |
 | `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
 | `content/olguha/list-view.md` | نمای فهرستی | ترجمه‌شده |
+| `content/olguha/loading-state.md` | حالت بارگذاری | ترجمه‌شده |
 | `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
 | `content/olguha/masthead.md` | هدر برنامه | ترجمه‌شده |
 | `content/olguha/modal-overlay.md` | روی‌هم‌افکن مودال | ترجمه‌شده |
@@ -99,6 +102,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/syntax-hints.md` | نکتهٔ نحوی | ترجمه‌شده |
 | `content/olguha/table-view.md` | نمای جدولی | ترجمه‌شده |
 | `content/olguha/textbox-filter.md` | فیلتر متنی | ترجمه‌شده |
+| `content/olguha/toast-notifications.md` | اعلان توست | ترجمه‌شده |
 | `content/olguha/toolbar.md` | نوار ابزار | ترجمه‌شده |
 | `content/olguha/tree-list-view.md` | نمای فهرست درختی | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |

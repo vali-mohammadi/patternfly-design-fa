@@ -71,3 +71,10 @@ status: translated
 - [روی‌هم‌افکن بدون‌مودال](./modeless-overlay)
 - [بارگذاری فایل](./file-upload)
 - [کشیدن‌وانداختن](./drag-and-drop)
+
+## ارتباطات
+
+- [حالت خالی](./empty-state)
+- [اعلان توست](./toast-notifications)
+- [حالت بارگذاری](./loading-state)
+- [اعلان درون‌خطی](./inline-notifications)

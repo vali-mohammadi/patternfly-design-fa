@@ -87,6 +87,11 @@
 | `content/olguha/modeless-overlay.md` | روی‌هم‌افکن بدون‌مودال | `pattern-library/forms-and-controls/modeless-overlay/` | نگه‌داشته‌شده — پیوند مفهومی با اصطلاح رزروشدهٔ Drawer در گلوسری ثبت شد؛ مرحلهٔ ۷و |
 | `content/olguha/file-upload.md` | بارگذاری فایل | `pattern-library/forms-and-controls/file-upload/` | نگه‌داشته‌شده — جای‌گیری آیکون وضعیت/اندازهٔ فایل قرینه شد؛ مرحلهٔ ۷ز — **آخرین دستهٔ مرحلهٔ ۷** |
 | `content/olguha/drag-and-drop.md` | کشیدن‌وانداختن | `pattern-library/forms-and-controls/drag-and-drop/` | نگه‌داشته‌شده — جای‌گیری آیکون دستگیره قرینه شد؛ ارجاعات رو به جلو در `list-view.md` و `canvas-view.md` به لینک واقعی ارتقا یافتند؛ مرحلهٔ ۷ز — **آخرین دستهٔ مرحلهٔ ۷، ۸۱ فایل بالادستی تکمیل شد** |
+| `pattern-library/communication/about-modal/` | — | — | **ادغام‌شده** — بدون صفحهٔ جداگانه؛ گرافیک گوشه و چیدمان دوستونی نسخه به `content/moallefeha/about-modal.md` اضافه شد، هم‌پوشانی مرحلهٔ ۲ اینجا حل شد؛ مرحلهٔ ۸الف |
+| `content/olguha/empty-state.md` | حالت خالی | `pattern-library/communication/empty-state/` | نگه‌داشته‌شده — رزرو گلوسری «empty state» بسته شد؛ چند ارجاع رو به جلو در نمای جدولی/فیلتر به لینک واقعی ارتقا یافتند؛ مرحلهٔ ۸الف |
+| `content/olguha/toast-notifications.md` | اعلان توست | `pattern-library/communication/toast-notifications/` | نگه‌داشته‌شده — رزرو گلوسری «toast» بسته شد؛ موقعیت اعلان و کنش قرینه شدند؛ مرحلهٔ ۸الف |
+| `content/olguha/loading-state.md` | حالت بارگذاری | `pattern-library/communication/loading-state/` | نگه‌داشته‌شده — ارجاع رو به جلو در نمای جدولی به لینک واقعی ارتقا یافت؛ مرحلهٔ ۸الف |
+| `content/olguha/inline-notifications.md` | اعلان درون‌خطی | `pattern-library/communication/inline-notifications/` | نگه‌داشته‌شده — ارجاع به مسئلهٔ نبود تمایز alert/warning در گلوسری داده شد؛ مرحلهٔ ۸الف |
 
 ## `content/rast-be-chin/`
 
