@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 28**
+**مجموع صفحات دارای front matter در `content/`: 33**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 1 |
-| ترجمه‌شده | 27 |
+| ترجمه‌شده | 32 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -63,7 +63,12 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
+| `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
+| `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
+| `content/olguha/masthead.md` | هدر برنامه | ترجمه‌شده |
+| `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
+| `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |

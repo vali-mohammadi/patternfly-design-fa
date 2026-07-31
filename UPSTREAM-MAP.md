@@ -49,6 +49,11 @@
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | `pattern-library/navigation/horizontal-navigation/` | نگه‌داشته‌شده — پیش‌فرض «چپ‌ترین مورد» به «راست‌ترین» قرینه شد |
 | `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | `pattern-library/navigation/vertical-navigation/` | نگه‌داشته‌شده — با `content/moallefeha/navigation-system.md` هم‌پوشانی خلاصه دارد، عمداً؛ کشوی راهبری و کشوی اعلان‌ها هر دو قرینه شدند و در سمت مخالف هم باقی ماندند |
 | `pattern-library/navigation/guidelines/` | — | — | **کنارگذاشته‌شده** — تکرار تصمیم‌های «کِی افقی/کِی عمودی» که در `horizontal-navigation.md`، `vertical-navigation.md`، و `moallefeha/navigation-system.md` از قبل آمده |
+| `content/olguha/masthead.md` | هدر برنامه | `pattern-library/application-framework/masthead/` | نگه‌داشته‌شده — چگالی بالای قرینه‌سازی: کل ترتیب اجزا (همبرگری تا کاربر) به‌عنوان یک زنجیرهٔ یکپارچه قرینه شد، نه جمله‌به‌جمله |
+| `content/olguha/launcher.md` | راه‌انداز | `pattern-library/application-framework/launcher/` | نگه‌داشته‌شده |
+| `content/olguha/login.md` | صفحهٔ ورود | `pattern-library/application-framework/login-page/` | ادغام‌وپالایش‌شده — ساختار کارت مشترک با ورود چندمرحله‌ای و ورود یکپارچه، برای جلوگیری از تکرار سه‌باره، اینجا مرکزی نگه‌داشته شد |
+| `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | `pattern-library/application-framework/multi-factor-login/` | ادغام‌وپالایش‌شده — فقط تفاوت با کارت پایه، با ارجاع به `login.md` |
+| `content/olguha/single-sign-on.md` | ورود یکپارچه | `pattern-library/application-framework/single-sign-on/` | ادغام‌وپالایش‌شده — فقط تفاوت با کارت پایه، با ارجاع به `login.md` |
 
 ## `content/rast-be-chin/`
 

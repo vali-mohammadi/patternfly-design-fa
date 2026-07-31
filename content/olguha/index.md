@@ -24,3 +24,11 @@ status: translated
 - [انتخاب‌گر زمینه](./context-selector)
 - [راهبری افقی](./horizontal-navigation)
 - [راهبری عمودی تفصیلی](./vertical-navigation-detail) — اصول کلی در [نظام راهبری](../moallefeha/navigation-system)
+
+## چارچوب اپلیکیشن
+
+- [هدر برنامه](./masthead)
+- [راه‌انداز](./launcher)
+- [صفحهٔ ورود](./login)
+- [ورود چندمرحله‌ای](./multi-factor-login)
+- [ورود یکپارچه](./single-sign-on)
