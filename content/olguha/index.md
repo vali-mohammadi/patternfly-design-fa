@@ -59,3 +59,7 @@ status: translated
 - [برچسب](./labels)
 - [نکتهٔ نحوی](./syntax-hints)
 - [کمک روی فرم‌ها](./help-on-forms)
+- [خطاها و اعتبارسنجی](./errors-and-validation)
+- [افشای تدریجی](./progressive-disclosure)
+- [بخش باز/بسته‌شدنی](./expand-collapse-section)
+- [ویرایش درون‌خطی](./inline-edit)

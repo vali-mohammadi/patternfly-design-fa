@@ -75,6 +75,10 @@
 | `content/olguha/labels.md` | برچسب | `pattern-library/forms-and-controls/labels/` | نگه‌داشته‌شده — مرحلهٔ ۷ج |
 | `content/olguha/syntax-hints.md` | نکتهٔ نحوی | `pattern-library/forms-and-controls/syntax-hints/` | نگه‌داشته‌شده — بخش «پوشش‌داده‌نشده» به پژوهش فرهنگ بصری (#۲۱) پیوند خورد؛ مرحلهٔ ۷ج |
 | `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | `pattern-library/forms-and-controls/help-on-forms/` | نگه‌داشته‌شده — جای‌گیری آیکون راهنما قرینه شد؛ مرحلهٔ ۷ج |
+| `content/olguha/errors-and-validation.md` | خطاها و اعتبارسنجی | `pattern-library/forms-and-controls/errors-and-validation/` | ادغام‌وپالایش‌شده — مکمل مقدمهٔ کوتاه‌تر در `moallefeha/forms.md`؛ مرحلهٔ ۷د |
+| `content/olguha/progressive-disclosure.md` | افشای تدریجی | `pattern-library/forms-and-controls/progressive-disclosure/` | نگه‌داشته‌شده — تورفتگی فیلد فرزند قرینه شد؛ مرحلهٔ ۷د |
+| `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | `pattern-library/forms-and-controls/expand-collapse-section/` | نگه‌داشته‌شده — همان قاعدهٔ فلش گسترش نمای جدولی/درختی اعمال شد؛ مرحلهٔ ۷د |
+| `content/olguha/inline-edit.md` | ویرایش درون‌خطی | `pattern-library/forms-and-controls/inline-edit/` | نگه‌داشته‌شده — موقعیت دکمه‌های ذخیره/لغو در همهٔ نماها قرینه شد؛ آیکون‌های تیک/X خودشان قرینه نشدند فقط موقعیتشان؛ مرحلهٔ ۷د |
 
 ## `content/rast-be-chin/`
 

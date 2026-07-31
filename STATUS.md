@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 54**
+**مجموع صفحات دارای front matter در `content/`: 58**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 54 |
+| ترجمه‌شده | 58 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -69,12 +69,15 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
+| `content/olguha/errors-and-validation.md` | خطاها و اعتبارسنجی | ترجمه‌شده |
+| `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | ترجمه‌شده |
 | `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
 | `content/olguha/find.md` | یافتن | ترجمه‌شده |
 | `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
+| `content/olguha/inline-edit.md` | ویرایش درون‌خطی | ترجمه‌شده |
 | `content/olguha/labels.md` | برچسب | ترجمه‌شده |
 | `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
 | `content/olguha/list-view.md` | نمای فهرستی | ترجمه‌شده |
@@ -82,6 +85,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/masthead.md` | هدر برنامه | ترجمه‌شده |
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
+| `content/olguha/progressive-disclosure.md` | افشای تدریجی | ترجمه‌شده |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
 | `content/olguha/sort.md` | مرتب‌سازی | ترجمه‌شده |
 | `content/olguha/syntax-hints.md` | نکتهٔ نحوی | ترجمه‌شده |
