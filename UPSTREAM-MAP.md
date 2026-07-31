@@ -104,6 +104,12 @@
 | `content/olguha/bar-chart.md` | نمودار میله‌ای | `pattern-library/data-visualization/bar-chart/` | نگه‌داشته‌شده — محور کمّی (نه زمانی)، کامل قرینه شد — میله‌های افقی از راست شروع می‌شوند، ترتیب میلهٔ انباشتهٔ افقی معکوس شد؛ مرحلهٔ ۹الف |
 | `content/olguha/bullet-chart.md` | نمودار گلوله‌ای | `pattern-library/data-visualization/bullet-chart/` | نگه‌داشته‌شده — ترجمهٔ توصیفی بدون پژوهش مستقیم؛ مقیاس کمّی کامل قرینه شد؛ مرحلهٔ ۹الف |
 | `content/olguha/donut-chart.md` | نمودار دونات | `pattern-library/data-visualization/donut-chart/` | نگه‌داشته‌شده — **تصمیم اصیل:** جهت ساعتگرد پرشدگی قرینه نشد (قیاس با آیکون ساعت)؛ به جدول قرینه‌سازی اضافه شد؛ مرحلهٔ ۹الف |
+| `content/olguha/heat-map.md` | نقشهٔ حرارتی | `pattern-library/data-visualization/heat-map/` | نگه‌داشته‌شده — **تصمیم اصیل:** ترتیب رتبه‌بندی بلوک‌ها (بالاترین درصد در گوشهٔ شروع خط) قرینه شد، هم‌الگو با مسیر راهنما/جدول؛ به جدول قرینه‌سازی اضافه شد؛ مرحلهٔ ۹ب |
+| `content/olguha/line-chart.md` | نمودار خطی | `pattern-library/data-visualization/line-chart/` | نگه‌داشته‌شده — قاعدهٔ «محور زمان قرینه نمی‌شود» از نمودار ناحیه‌ای دوباره به‌کار رفت؛ ارجاعات رو به جلو در bar-chart.md، area-chart.md، table-view.md ارتقا یافتند؛ مرحلهٔ ۹ب |
+| `content/olguha/pie-chart.md` | نمودار دایره‌ای | `pattern-library/data-visualization/pie-chart/` | نگه‌داشته‌شده — بدون محور، فقط جای‌گیری افسانه قرینه شد؛ مرحلهٔ ۹ب |
+| `content/olguha/sparkline.md` | اسپارک‌لاین | `pattern-library/data-visualization/sparkline/` | نگه‌داشته‌شده — رزرو گلوسری غیررسمی (پرانتزی در trend-card.md) بسته شد؛ قاعدهٔ محور زمان اعمال شد؛ ارجاعات رو به جلو در trend-card.md و utilization-trend-card.md ارتقا یافتند؛ مرحلهٔ ۹ب |
+| `content/olguha/timeline.md` | خط زمان | `pattern-library/data-visualization/timeline/` | نگه‌داشته‌شده — پیچیده‌ترین کاربرد قاعدهٔ محور زمان تا این لحظه؛ یادداشت صریح که فرمان‌های تعاملی کشیدن نسبت به جریان زمان (قرینه‌نشده) تعریف می‌شوند، نه جهت خواندن صفحه؛ مرحلهٔ ۹ب |
+| `content/olguha/utilization-bar-chart.md` | نمودار نوار بهره‌وری | `pattern-library/data-visualization/utilization-bar-chart/` | نگه‌داشته‌شده — نوار پیشرفت خطی، کامل قرینه شد؛ ارجاعات رو به جلو در utilization-bar-card.md، donut-chart.md، bar-chart.md ارتقا یافتند؛ مرحلهٔ ۹ب — **این مرحله (۹ — تصویرسازی داده) را کامل کرد** |
 
 ## `content/rast-be-chin/`
 

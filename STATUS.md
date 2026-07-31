@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 82**
+**مجموع صفحات دارای front matter در `content/`: 88**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 82 |
+| ترجمه‌شده | 88 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -86,6 +86,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/file-upload.md` | بارگذاری فایل | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
 | `content/olguha/find.md` | یافتن | ترجمه‌شده |
+| `content/olguha/heat-map.md` | نقشهٔ حرارتی | ترجمه‌شده |
 | `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
@@ -94,6 +95,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/labels.md` | برچسب | ترجمه‌شده |
 | `content/olguha/language-selector.md` | انتخاب‌گر زبان | ترجمه‌شده |
 | `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
+| `content/olguha/line-chart.md` | نمودار خطی | ترجمه‌شده |
 | `content/olguha/list-view.md` | نمای فهرستی | ترجمه‌شده |
 | `content/olguha/loading-state.md` | حالت بارگذاری | ترجمه‌شده |
 | `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
@@ -104,20 +106,24 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
 | `content/olguha/notification-drawer.md` | کشوی اعلان‌ها | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
+| `content/olguha/pie-chart.md` | نمودار دایره‌ای | ترجمه‌شده |
 | `content/olguha/progressive-disclosure.md` | افشای تدریجی | ترجمه‌شده |
 | `content/olguha/session-timeout.md` | پایان نشست | ترجمه‌شده |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
 | `content/olguha/slider.md` | اسلایدر | ترجمه‌شده |
 | `content/olguha/sort.md` | مرتب‌سازی | ترجمه‌شده |
+| `content/olguha/sparkline.md` | اسپارک‌لاین | ترجمه‌شده |
 | `content/olguha/syntax-hints.md` | نکتهٔ نحوی | ترجمه‌شده |
 | `content/olguha/table-view.md` | نمای جدولی | ترجمه‌شده |
 | `content/olguha/textbox-filter.md` | فیلتر متنی | ترجمه‌شده |
+| `content/olguha/timeline.md` | خط زمان | ترجمه‌شده |
 | `content/olguha/toast-notifications.md` | اعلان توست | ترجمه‌شده |
 | `content/olguha/toolbar.md` | نوار ابزار | ترجمه‌شده |
 | `content/olguha/tour.md` | تور | ترجمه‌شده |
 | `content/olguha/tree-list-view.md` | نمای فهرست درختی | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
+| `content/olguha/utilization-bar-chart.md` | نمودار نوار بهره‌وری | ترجمه‌شده |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
 | `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | ترجمه‌شده |
 | `content/olguha/view-selector.md` | انتخاب‌گر نما | ترجمه‌شده |
