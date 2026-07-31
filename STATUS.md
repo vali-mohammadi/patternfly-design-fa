@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 49**
+**مجموع صفحات دارای front matter در `content/`: 54**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 49 |
+| ترجمه‌شده | 54 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -67,11 +67,15 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
 | `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
+| `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
+| `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
 | `content/olguha/find.md` | یافتن | ترجمه‌شده |
+| `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
 | `content/olguha/index.md` | الگوها | ترجمه‌شده |
+| `content/olguha/labels.md` | برچسب | ترجمه‌شده |
 | `content/olguha/launcher.md` | راه‌انداز | ترجمه‌شده |
 | `content/olguha/list-view.md` | نمای فهرستی | ترجمه‌شده |
 | `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
@@ -80,6 +84,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
 | `content/olguha/single-sign-on.md` | ورود یکپارچه | ترجمه‌شده |
 | `content/olguha/sort.md` | مرتب‌سازی | ترجمه‌شده |
+| `content/olguha/syntax-hints.md` | نکتهٔ نحوی | ترجمه‌شده |
 | `content/olguha/table-view.md` | نمای جدولی | ترجمه‌شده |
 | `content/olguha/textbox-filter.md` | فیلتر متنی | ترجمه‌شده |
 | `content/olguha/toolbar.md` | نوار ابزار | ترجمه‌شده |

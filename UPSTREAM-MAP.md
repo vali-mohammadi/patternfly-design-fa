@@ -70,6 +70,11 @@
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | `pattern-library/forms-and-controls/dual-list-selector/` | نگه‌داشته‌شده — مرحلهٔ ۷ب |
 | `content/olguha/actions.md` | کنش‌ها | `pattern-library/forms-and-controls/actions/` | نگه‌داشته‌شده — چیدمان دکمه‌ها، آیکون، و کنش‌های محدود به صفحه قرینه شدند؛ مرحلهٔ ۷ب |
 | `content/olguha/buttons-on-forms.md` | دکمه‌ها روی فرم‌ها | `pattern-library/forms-and-controls/buttons-on-forms/` | ادغام‌وپالایش‌شده — چیدمان دکمه از قبل در `moallefeha/button.md` قرینه شده بود، اینجا فقط ارجاع و دلتا (اندازه، سبک‌دهی دکمه‌های نام‌دار) اضافه شد؛ مرحلهٔ ۷ب |
+| `content/olguha/data-input.md` | ورودی داده | `pattern-library/forms-and-controls/data-input/` | نگه‌داشته‌شده — ترازبندی متن قرینه شد؛ ترازبندی ستون عددی عمداً **قرینه نشد** (رفتار رقم‌ها، نه جهت متن)؛ ترتیب Tab قرینه شد؛ مرحلهٔ ۷ج |
+| `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | `pattern-library/forms-and-controls/field-labeling/` | نگه‌داشته‌شده — ⚠️ پیچیده‌ترین قرینه‌سازی پروژه تا این لحظه: نام گونه‌های افقی («راست‌چین»/«چپ‌چین») کارکردشان با جهت خواندن گره خورده، پس به نام کارکردی ترجمه شد نه لفظی؛ مرحلهٔ ۷ج |
+| `content/olguha/labels.md` | برچسب | `pattern-library/forms-and-controls/labels/` | نگه‌داشته‌شده — مرحلهٔ ۷ج |
+| `content/olguha/syntax-hints.md` | نکتهٔ نحوی | `pattern-library/forms-and-controls/syntax-hints/` | نگه‌داشته‌شده — بخش «پوشش‌داده‌نشده» به پژوهش فرهنگ بصری (#۲۱) پیوند خورد؛ مرحلهٔ ۷ج |
+| `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | `pattern-library/forms-and-controls/help-on-forms/` | نگه‌داشته‌شده — جای‌گیری آیکون راهنما قرینه شد؛ مرحلهٔ ۷ج |
 
 ## `content/rast-be-chin/`
 

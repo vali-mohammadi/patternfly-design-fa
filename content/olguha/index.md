@@ -54,3 +54,8 @@ status: translated
 - [انتخاب‌گر دوفهرستی](./dual-list-selector)
 - [کنش‌ها](./actions)
 - [دکمه‌ها روی فرم‌ها](./buttons-on-forms)
+- [ورودی داده](./data-input)
+- [برچسب‌گذاری فیلد](./field-labeling)
+- [برچسب](./labels)
+- [نکتهٔ نحوی](./syntax-hints)
+- [کمک روی فرم‌ها](./help-on-forms)
