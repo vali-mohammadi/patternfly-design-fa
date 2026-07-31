@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 17**
+**مجموع صفحات دارای front matter در `content/`: 23**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 1 |
-| ترجمه‌شده | 16 |
+| ترجمه‌شده | 22 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -57,6 +57,12 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/moallefeha/modal.md` | مودال | ترجمه‌شده |
 | `content/moallefeha/navigation-system.md` | نظام راهبری | ترجمه‌شده |
 | `content/moallefeha/progress-bar.md` | نوار پیشرفت | ترجمه‌شده |
+| `content/olguha/aggregate-status-card.md` | کارت وضعیت تجمیعی | ترجمه‌شده |
+| `content/olguha/base-card.md` | کارت پایه | ترجمه‌شده |
+| `content/olguha/index.md` | الگوها | ترجمه‌شده |
+| `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
+| `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
+| `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |

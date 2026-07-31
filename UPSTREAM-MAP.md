@@ -37,7 +37,12 @@
 
 | مسیر فارسی | عنوان | مسیر(های) بالادستی | وضعیت |
 |---|---|---|---|
-| *(هنوز خالی)* | | `pattern-library/*` (پالایش‌شده) | در انتظار #8 |
+| `content/olguha/index.md` | الگوها | — | تازه‌بدون‌منبع (صفحهٔ فهرست) |
+| `content/olguha/base-card.md` | کارت پایه | `pattern-library/cards/base-card/` | ادغام‌وپالایش‌شده — site.md و overview.md/design.md به یک فایل ادغام شدند؛ فیلتر بازهٔ زمانی و دکمهٔ کنش قرینه شدند |
+| `content/olguha/aggregate-status-card.md` | کارت وضعیت تجمیعی | `pattern-library/cards/aggregate-status-card/` | ادغام‌وپالایش‌شده |
+| `content/olguha/trend-card.md` | کارت روند | `pattern-library/cards/trend-card/` | ادغام‌وپالایش‌شده — چند جای‌گیری نسبت به اسپارک‌لاین قرینه شدند |
+| `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | `pattern-library/cards/utilization-bar-card/` | ادغام‌وپالایش‌شده — دو چیدمان توضیح/برچسب قرینه شدند |
+| `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | `pattern-library/cards/utilization-trend-card/` | ادغام‌وپالایش‌شده — ترازبندی برچسب/مقدار/بازهٔ زمانی قرینه شد |
 
 ## `content/rast-be-chin/`
 
