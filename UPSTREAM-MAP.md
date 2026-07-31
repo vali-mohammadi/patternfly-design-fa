@@ -96,6 +96,10 @@
 | `content/olguha/notification-drawer.md` | کشوی اعلان‌ها | `pattern-library/communication/notification-drawer/` | نگه‌داشته‌شده — نشان، بستن، و آیکون گسترش قرینه شدند؛ ارجاعات رو به جلو در `toast-notifications.md` و `masthead.md` به لینک واقعی ارتقا یافتند؛ مرحلهٔ ۸ب |
 | `content/olguha/session-timeout.md` | پایان نشست | `pattern-library/communication/session-timeout/` | نگه‌داشته‌شده — مرحلهٔ ۸ب |
 | `content/olguha/classification-banner.md` | بنر طبقه‌بندی | `pattern-library/communication/classification-banner/` | نگه‌داشته‌شده — دکمهٔ بستن قرینه شد؛ یادداشت دربارهٔ عدم تطبیق مستقیم با بازار ایران اضافه شد؛ مرحلهٔ ۸ب |
+| `content/olguha/comments.md` | نظرات | `pattern-library/communication/comments/` | نگه‌داشته‌شده — چیدمان دکمه‌های لغو/ارسال و ترازبندی متن نظر قرینه شدند؛ مرحلهٔ ۸ج |
+| `content/olguha/experimental-features.md` | ویژگی‌های آزمایشی | `pattern-library/communication/experimental-features/` | نگه‌داشته‌شده — جای‌گیری دکمهٔ بالن «اطلاعات بیشتر» قرینه شد؛ مرحلهٔ ۸ج |
+| `content/olguha/tour.md` | تور | `pattern-library/communication/tour/` | نگه‌داشته‌شده — پیوند به منوی راهنمای هدر برنامه؛ مرحلهٔ ۸ج |
+| `content/olguha/wizard.md` | ویزارد | `pattern-library/communication/wizard/` | نگه‌داشته‌شده — رزرو گلوسری «wizard» با واژه‌سازی اصیل (رجیستر C، شرط ۱) بسته شد؛ چیدمان نوار دکمه به قرینه‌سازی دکمه در مودال ارجاع داده شد؛ مرحلهٔ ۸ج — **این مرحله (۸ — ارتباطات) را کامل کرد** |
 
 ## `content/rast-be-chin/`
 

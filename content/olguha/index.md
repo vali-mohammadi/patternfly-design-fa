@@ -82,3 +82,7 @@ status: translated
 - [کشوی اعلان‌ها](./notification-drawer)
 - [پایان نشست](./session-timeout)
 - [بنر طبقه‌بندی](./classification-banner)
+- [نظرات](./comments)
+- [ویژگی‌های آزمایشی](./experimental-features)
+- [تور](./tour)
+- [ویزارد](./wizard)

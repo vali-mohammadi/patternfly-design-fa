@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 74**
+**مجموع صفحات دارای front matter در `content/`: 78**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 74 |
+| ترجمه‌شده | 78 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -67,6 +67,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
 | `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | ترجمه‌شده |
 | `content/olguha/classification-banner.md` | بنر طبقه‌بندی | ترجمه‌شده |
+| `content/olguha/comments.md` | نظرات | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
@@ -76,6 +77,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/empty-state.md` | حالت خالی | ترجمه‌شده |
 | `content/olguha/errors-and-validation.md` | خطاها و اعتبارسنجی | ترجمه‌شده |
 | `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | ترجمه‌شده |
+| `content/olguha/experimental-features.md` | ویژگی‌های آزمایشی | ترجمه‌شده |
 | `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | ترجمه‌شده |
 | `content/olguha/file-upload.md` | بارگذاری فایل | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
@@ -108,12 +110,14 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/textbox-filter.md` | فیلتر متنی | ترجمه‌شده |
 | `content/olguha/toast-notifications.md` | اعلان توست | ترجمه‌شده |
 | `content/olguha/toolbar.md` | نوار ابزار | ترجمه‌شده |
+| `content/olguha/tour.md` | تور | ترجمه‌شده |
 | `content/olguha/tree-list-view.md` | نمای فهرست درختی | ترجمه‌شده |
 | `content/olguha/trend-card.md` | کارت روند | ترجمه‌شده |
 | `content/olguha/utilization-bar-card.md` | کارت نوار بهره‌وری | ترجمه‌شده |
 | `content/olguha/utilization-trend-card.md` | کارت روند بهره‌وری | ترجمه‌شده |
 | `content/olguha/vertical-navigation.md` | راهبری عمودی تفصیلی | ترجمه‌شده |
 | `content/olguha/view-selector.md` | انتخاب‌گر نما | ترجمه‌شده |
+| `content/olguha/wizard.md` | ویزارد | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | ترجمه‌شده |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |
