@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 78**
+**مجموع صفحات دارای front matter در `content/`: 82**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 78 |
+| ترجمه‌شده | 82 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -59,9 +59,12 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/moallefeha/progress-bar.md` | نوار پیشرفت | ترجمه‌شده |
 | `content/olguha/actions.md` | کنش‌ها | ترجمه‌شده |
 | `content/olguha/aggregate-status-card.md` | کارت وضعیت تجمیعی | ترجمه‌شده |
+| `content/olguha/area-chart.md` | نمودار ناحیه‌ای | ترجمه‌شده |
+| `content/olguha/bar-chart.md` | نمودار میله‌ای | ترجمه‌شده |
 | `content/olguha/base-card.md` | کارت پایه | ترجمه‌شده |
 | `content/olguha/breadcrumb.md` | مسیر راهنما | ترجمه‌شده |
 | `content/olguha/bulk-selector.md` | انتخاب‌گر گروهی | ترجمه‌شده |
+| `content/olguha/bullet-chart.md` | نمودار گلوله‌ای | ترجمه‌شده |
 | `content/olguha/buttons-on-forms.md` | دکمه‌ها روی فرم‌ها | ترجمه‌شده |
 | `content/olguha/canvas-view.md` | نمای بوم | ترجمه‌شده |
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
@@ -72,6 +75,7 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
 | `content/olguha/date-and-time.md` | تاریخ و ساعت | ترجمه‌شده |
+| `content/olguha/donut-chart.md` | نمودار دونات | ترجمه‌شده |
 | `content/olguha/drag-and-drop.md` | کشیدن‌وانداختن | ترجمه‌شده |
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
 | `content/olguha/empty-state.md` | حالت خالی | ترجمه‌شده |

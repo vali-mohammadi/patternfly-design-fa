@@ -100,6 +100,10 @@
 | `content/olguha/experimental-features.md` | ویژگی‌های آزمایشی | `pattern-library/communication/experimental-features/` | نگه‌داشته‌شده — جای‌گیری دکمهٔ بالن «اطلاعات بیشتر» قرینه شد؛ مرحلهٔ ۸ج |
 | `content/olguha/tour.md` | تور | `pattern-library/communication/tour/` | نگه‌داشته‌شده — پیوند به منوی راهنمای هدر برنامه؛ مرحلهٔ ۸ج |
 | `content/olguha/wizard.md` | ویزارد | `pattern-library/communication/wizard/` | نگه‌داشته‌شده — رزرو گلوسری «wizard» با واژه‌سازی اصیل (رجیستر C، شرط ۱) بسته شد؛ چیدمان نوار دکمه به قرینه‌سازی دکمه در مودال ارجاع داده شد؛ مرحلهٔ ۸ج — **این مرحله (۸ — ارتباطات) را کامل کرد** |
+| `content/olguha/area-chart.md` | نمودار ناحیه‌ای | `pattern-library/data-visualization/area-chart/` | نگه‌داشته‌شده — نمونهٔ اصلی قاعدهٔ «نمودار با محور زمان» جدول قرینه‌سازی؛ محور قرینه نشد، قاب (افسانه) قرینه شد؛ مرحلهٔ ۹الف |
+| `content/olguha/bar-chart.md` | نمودار میله‌ای | `pattern-library/data-visualization/bar-chart/` | نگه‌داشته‌شده — محور کمّی (نه زمانی)، کامل قرینه شد — میله‌های افقی از راست شروع می‌شوند، ترتیب میلهٔ انباشتهٔ افقی معکوس شد؛ مرحلهٔ ۹الف |
+| `content/olguha/bullet-chart.md` | نمودار گلوله‌ای | `pattern-library/data-visualization/bullet-chart/` | نگه‌داشته‌شده — ترجمهٔ توصیفی بدون پژوهش مستقیم؛ مقیاس کمّی کامل قرینه شد؛ مرحلهٔ ۹الف |
+| `content/olguha/donut-chart.md` | نمودار دونات | `pattern-library/data-visualization/donut-chart/` | نگه‌داشته‌شده — **تصمیم اصیل:** جهت ساعتگرد پرشدگی قرینه نشد (قیاس با آیکون ساعت)؛ به جدول قرینه‌سازی اضافه شد؛ مرحلهٔ ۹الف |
 
 ## `content/rast-be-chin/`
 

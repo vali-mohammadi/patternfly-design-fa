@@ -86,3 +86,10 @@ status: translated
 - [ویژگی‌های آزمایشی](./experimental-features)
 - [تور](./tour)
 - [ویزارد](./wizard)
+
+## تصویرسازی داده
+
+- [نمودار ناحیه‌ای](./area-chart)
+- [نمودار میله‌ای](./bar-chart)
+- [نمودار گلوله‌ای](./bullet-chart)
+- [نمودار دونات](./donut-chart)
