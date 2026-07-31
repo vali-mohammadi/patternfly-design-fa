@@ -16,7 +16,9 @@
 
 | مسیر فارسی | عنوان | مسیر(های) بالادستی | وضعیت |
 |---|---|---|---|
-| *(هنوز خالی)* | | `patternfly-4/foundations/`, `styles/typography/`, `styles/icons/` | در انتظار #8 |
+| `content/mabani/index.md` | مبانی | — | تازه‌بدون‌منبع (صفحهٔ فهرست) |
+| `content/mabani/typography.md` | تایپوگرافی | `styles/typography/typography.md` | ادغام‌وپالایش‌شده — قلم Open Sans با Estedad جایگزین شد؛ جدول سلسله‌مراتب متن میراث PF3 است، بازبینی‌نشده در برابر مقیاس نسخه‌های جدیدتر |
+| `content/mabani/icons.md` | آیکون‌ها | `styles/icons/icons.md` | ادغام‌وپالایش‌شده — جدول تولیدی بدون دادهٔ پشتیبان بود؛ به‌جایش راهنمای قرینه‌سازی نوشته شد. بازبینی بصری کامل SVGها هنوز انجام نشده |
 
 ## `content/moallefeha/`
 

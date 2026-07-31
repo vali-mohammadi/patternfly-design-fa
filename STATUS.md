@@ -35,17 +35,20 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 6**
+**مجموع صفحات دارای front matter در `content/`: 9**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 1 |
-| ترجمه‌شده | 5 |
+| ترجمه‌شده | 8 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
 | صفحه | عنوان | وضعیت |
 |---|---|---|
+| `content/mabani/icons.md` | آیکون‌ها | ترجمه‌شده |
+| `content/mabani/index.md` | مبانی | ترجمه‌شده |
+| `content/mabani/typography.md` | تایپوگرافی | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |

@@ -1,9 +1,4 @@
 # مبانی — Foundations
 
-اصول پایه‌ای که همهٔ مؤلفه‌ها و الگوها بر آن‌ها استوارند: تایپوگرافی، آیکون، رنگ، شبکه و
-چیدمان.
-
-**منبع بالادستی:** `patternfly-4/foundations/`، `styles/typography/`، `styles/icons/`.
-جزئیات نگاشت در [`../../UPSTREAM-MAP.md`](../../UPSTREAM-MAP.md).
-
-هنوز هیچ صفحه‌ای اینجا ترجمه نشده — منتظر [فهرست اولویت](https://github.com/vali-mohammadi/patternfly-design-fa/issues/8).
+محتوای این بخش در [`index.md`](./index.md) است (صفحهٔ سایت، با front matter). این
+`README.md` فقط برای کسی است که مستقیم در گیت‌هاب این پوشه را باز می‌کند.
