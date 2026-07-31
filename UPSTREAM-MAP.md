@@ -66,6 +66,10 @@
 | `content/olguha/sort.md` | مرتب‌سازی | `pattern-library/forms-and-controls/sort/` | نگه‌داشته‌شده — مرحلهٔ ۷الف |
 | `content/olguha/find.md` | یافتن | `pattern-library/forms-and-controls/find/` | نگه‌داشته‌شده — واژهٔ «یافتن» برای تفکیک از جستجو/فیلتر ابداع شد؛ مرحلهٔ ۷الف |
 | `content/olguha/view-selector.md` | انتخاب‌گر نما | `pattern-library/forms-and-controls/view-selector/` | نگه‌داشته‌شده — جای‌گیری بالا-راست به بالا-چپ قرینه شد، هماهنگ با نمای فهرستی/کارتی؛ مرحلهٔ ۷الف |
+| `content/olguha/bulk-selector.md` | انتخاب‌گر گروهی | `pattern-library/forms-and-controls/bulk-selector/` | نگه‌داشته‌شده — مرحلهٔ ۷ب |
+| `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | `pattern-library/forms-and-controls/dual-list-selector/` | نگه‌داشته‌شده — مرحلهٔ ۷ب |
+| `content/olguha/actions.md` | کنش‌ها | `pattern-library/forms-and-controls/actions/` | نگه‌داشته‌شده — چیدمان دکمه‌ها، آیکون، و کنش‌های محدود به صفحه قرینه شدند؛ مرحلهٔ ۷ب |
+| `content/olguha/buttons-on-forms.md` | دکمه‌ها روی فرم‌ها | `pattern-library/forms-and-controls/buttons-on-forms/` | ادغام‌وپالایش‌شده — چیدمان دکمه از قبل در `moallefeha/button.md` قرینه شده بود، اینجا فقط ارجاع و دلتا (اندازه، سبک‌دهی دکمه‌های نام‌دار) اضافه شد؛ مرحلهٔ ۷ب |
 
 ## `content/rast-be-chin/`
 

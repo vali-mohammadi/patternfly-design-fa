@@ -50,3 +50,7 @@ status: translated
 - [مرتب‌سازی](./sort)
 - [یافتن](./find)
 - [انتخاب‌گر نما](./view-selector)
+- [انتخاب‌گر گروهی](./bulk-selector)
+- [انتخاب‌گر دوفهرستی](./dual-list-selector)
+- [کنش‌ها](./actions)
+- [دکمه‌ها روی فرم‌ها](./buttons-on-forms)

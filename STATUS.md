@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 45**
+**مجموع صفحات دارای front matter در `content/`: 49**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 45 |
+| ترجمه‌شده | 49 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -57,13 +57,17 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/moallefeha/modal.md` | مودال | ترجمه‌شده |
 | `content/moallefeha/navigation-system.md` | نظام راهبری | ترجمه‌شده |
 | `content/moallefeha/progress-bar.md` | نوار پیشرفت | ترجمه‌شده |
+| `content/olguha/actions.md` | کنش‌ها | ترجمه‌شده |
 | `content/olguha/aggregate-status-card.md` | کارت وضعیت تجمیعی | ترجمه‌شده |
 | `content/olguha/base-card.md` | کارت پایه | ترجمه‌شده |
 | `content/olguha/breadcrumb.md` | مسیر راهنما | ترجمه‌شده |
+| `content/olguha/bulk-selector.md` | انتخاب‌گر گروهی | ترجمه‌شده |
+| `content/olguha/buttons-on-forms.md` | دکمه‌ها روی فرم‌ها | ترجمه‌شده |
 | `content/olguha/canvas-view.md` | نمای بوم | ترجمه‌شده |
 | `content/olguha/card-view.md` | نمای کارتی | ترجمه‌شده |
 | `content/olguha/checkbox-filter.md` | فیلتر چک‌باکسی | ترجمه‌شده |
 | `content/olguha/context-selector.md` | انتخاب‌گر زمینه | ترجمه‌شده |
+| `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
 | `content/olguha/find.md` | یافتن | ترجمه‌شده |
 | `content/olguha/horizontal-navigation.md` | راهبری افقی | ترجمه‌شده |
