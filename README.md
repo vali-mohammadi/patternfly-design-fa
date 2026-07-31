@@ -17,15 +17,27 @@
 نقشهٔ راه کامل تصمیم‌ها و دسته‌های ترجمه در Issue شمارهٔ ۱ نگه‌داری می‌شود:
 [نقشهٔ راه: نظام طراحی فارسی PatternFly](https://github.com/vali-mohammadi/patternfly-design-fa/issues/1)
 
-## ساختار مخزن (در حال شکل‌گیری)
+## ساختار مخزن
 
 | مسیر | محتوا |
 |---|---|
 | [`docs/decisions/`](./docs/decisions) | سیاست‌های تصمیم‌گیری‌شده: گلوسری، شیوه‌نامهٔ نگارش، جدول قرینه‌سازی، قلم، یکسان‌سازی کدگذاری، معماری اطلاعات |
 | [`research/`](./research) | یافته‌های پژوهشی پشتوانهٔ این تصمیم‌ها، با منبع |
-| [`content/`](./content) | درخت محتوای منتشرشده — مبانی، مؤلفه‌ها، الگوها، راست‌به‌چین. هنوز خالی، منتظر [فهرست اولویت](https://github.com/vali-mohammadi/patternfly-design-fa/issues/8) |
+| [`content/`](./content) | درخت محتوای منتشرشده — مبانی، مؤلفه‌ها، الگوها، راست‌به‌چین. مراحل ۰ تا ۱۰ [فهرست اولویت](https://github.com/vali-mohammadi/patternfly-design-fa/issues/8) کامل شده‌اند — ۹۰ صفحه |
 | [`UPSTREAM-MAP.md`](./UPSTREAM-MAP.md) | ردیابی اینکه هر صفحهٔ فارسی از کدام فایل بالادستی می‌آید |
+| `.eleventy.js`, `_includes/` | اسکلت سایت Eleventy — `npm install && npm run serve` برای پیش‌نمایش محلی |
 | `pattern-library/`, `patternfly-4/`, `styles/` | محتوای اصلی انگلیسی PatternFly، هنوز دست‌نخورده — منبع بازبینی و ترجمه |
+
+## اجرای محلی سایت
+
+```
+npm install
+npm run serve
+```
+
+سایت روی `http://localhost:8080` بالا می‌آید. `npm run build` هم خروجی استاتیک را در
+`_site/` می‌سازد. میزبانی و انتشار عمومی هنوز تصمیم‌گیری نشده — جزئیات در
+[نقشهٔ راه](https://github.com/vali-mohammadi/patternfly-design-fa/issues/1).
 
 ## مجوز
 

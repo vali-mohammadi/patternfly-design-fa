@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} — نظام طراحی فارسی PatternFly</title>
+<meta name="description" content="اقتباس فارسی و راست‌به‌چین نظام طراحی PatternFly.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Estedad:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a class="site-title" href="/">نظام طراحی فارسی PatternFly</a>
+  <nav aria-label="بخش‌های اصلی" class="site-nav">
+    {%- for section in collections.sections %}
+    <a href="{{ section.url }}">{{ section.title }}</a>
+    {%- endfor %}
+  </nav>
+</header>
+
+<div class="page-shell">
+
+{%- set segments = page.url.split('/') | reject('equalto', '') | list %}
+{%- if segments.length > 0 %}
+<nav aria-label="مسیر راهنما">
+  <ul class="breadcrumb">
+    <li><a href="/">خانه</a></li>
+    {%- for section in collections.sections %}
+      {%- if section.key == segments[0] %}
+    <li>
+      {%- if segments.length > 1 -%}
+      <a href="{{ section.url }}">{{ section.title }}</a>
+      {%- else -%}
+      {{ section.title }}
+      {%- endif -%}
+    </li>
+      {%- endif %}
+    {%- endfor %}
+    {%- if segments.length > 1 %}
+    <li>{{ title }}</li>
+    {%- endif %}
+  </ul>
+</nav>
+{%- endif %}
+
+<main>
+{% if upstream %}
+<p class="upstream-note">منبع بالادستی: <code dir="ltr">{{ upstream }}</code></p>
+{% endif %}
+
+{{ content | safe }}
+</main>
+
+</div>
+
+<footer class="site-footer">
+  <p>
+    اقتباسی غیررسمی، بدون وابستگی به Red Hat یا پروژهٔ PatternFly —
+    <a href="https://github.com/vali-mohammadi/patternfly-design-fa">مخزن گیت‌هاب</a> ·
+    مجوز Apache License 2.0
+  </p>
+</footer>
+
+</body>
+</html>

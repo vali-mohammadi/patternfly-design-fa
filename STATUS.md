@@ -1,10 +1,13 @@
 # وضعیت پروژه — Project status
 
-**مرحلهٔ فعلی: پایان تصمیم‌گیری‌های بنیادین، آغاز اجرای محتوا (Phase 0 → Phase 1)**
+**مرحلهٔ فعلی: ترجمهٔ محتوای فهرست اولویت (مراحل ۰ تا ۱۰) کامل — اسکلت سایت Eleventy ساخته شد**
 
-همهٔ تصمیم‌های بنیادین (گلوسری، شیوه‌نامهٔ نگارش، قرینه‌سازی، قلم، کدگذاری، معماری اطلاعات،
-فهرست اولویت، زنجیرهٔ سایت، خط تولید) بسته شده‌اند. از این پس، کار روی **دسته‌های ترجمهٔ
-واقعی محتوا** است — طبق [فهرست اولویت](./docs/decisions/priority-list.md)، مرحله‌به‌مرحله.
+همهٔ تصمیم‌های بنیادین بسته شده‌اند، و هر یازده مرحلهٔ [فهرست اولویت](./docs/decisions/priority-list.md)
+(۰ تا ۱۰) هم ترجمه و منتشر شده‌اند — ۹۰ صفحه در `content/`. یک اسکلت واقعی سایت Eleventy
+هم ساخته شده (`npm install && npm run serve`)، با تمام پیوندهای داخلی بررسی‌شده
+(`script/check-links.js`). آنچه باقی مانده: تصمیم میزبانی/انتشار عمومی، و چند مورد فرعی
+باز در بخش «هنوز مشخص‌نشده» نقشهٔ راه (بازبینی چند واژهٔ آزمایشی گلوسری، تحقیق تکمیلی فرهنگ
+بصری، بازبینی چشمی آیکون‌ها، و مانند آن).
 
 ## نقشهٔ راه
 
@@ -26,6 +29,10 @@
 | [#7](https://github.com/vali-mohammadi/patternfly-design-fa/issues/7) | معماری اطلاعات و سیاست نشانی‌ها | [information-architecture.md](./docs/decisions/information-architecture.md) |
 | [#8](https://github.com/vali-mohammadi/patternfly-design-fa/issues/8) | فهرست اولویت و مرحله‌بندی | [priority-list.md](./docs/decisions/priority-list.md) |
 | [#9](https://github.com/vali-mohammadi/patternfly-design-fa/issues/9) | زنجیرهٔ ساخت سایت راست‌به‌چین | [site-toolchain.md](./docs/decisions/site-toolchain.md) |
+| [#10](https://github.com/vali-mohammadi/patternfly-design-fa/issues/10) | ابزار رصد وضعیت ترجمه | [script/status-fa.js](./script/status-fa.js) |
+| [#11](https://github.com/vali-mohammadi/patternfly-design-fa/issues/11) | خط تولید ترجمه و کنترل کیفیت | [script/lint-fa.js](./script/lint-fa.js) |
+| [#16](https://github.com/vali-mohammadi/patternfly-design-fa/issues/16)–[#38](https://github.com/vali-mohammadi/patternfly-design-fa/issues/38) | مراحل محتوا ۰ تا ۱۰ (لایهٔ آموزشی تا داشبورد) | `content/` — جزئیات هر دسته در [نقشهٔ راه](https://github.com/vali-mohammadi/patternfly-design-fa/issues/1) |
+| [#39](https://github.com/vali-mohammadi/patternfly-design-fa/issues/39) | ساخت اسکلت واقعی سایت Eleventy | [.eleventy.js](./.eleventy.js), [_includes/](./_includes) |
 
 اسناد نهایی همه در [`docs/decisions/`](./docs/decisions).
 
@@ -35,17 +42,18 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 89**
+**مجموع صفحات دارای front matter در `content/`: 90**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 89 |
+| ترجمه‌شده | 90 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
 | صفحه | عنوان | وضعیت |
 |---|---|---|
+| `content/index.md` | خانه | ترجمه‌شده |
 | `content/mabani/icons.md` | آیکون‌ها | ترجمه‌شده |
 | `content/mabani/index.md` | مبانی | ترجمه‌شده |
 | `content/mabani/typography.md` | تایپوگرافی | ترجمه‌شده |

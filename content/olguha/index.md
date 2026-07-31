@@ -23,7 +23,7 @@ status: translated
 - [صفحه‌بندی](./pagination)
 - [انتخاب‌گر زمینه](./context-selector)
 - [راهبری افقی](./horizontal-navigation)
-- [راهبری عمودی تفصیلی](./vertical-navigation-detail) — اصول کلی در [نظام راهبری](../moallefeha/navigation-system)
+- [راهبری عمودی تفصیلی](./vertical-navigation) — اصول کلی در [نظام راهبری](../moallefeha/navigation-system)
 
 ## چارچوب اپلیکیشن
 
