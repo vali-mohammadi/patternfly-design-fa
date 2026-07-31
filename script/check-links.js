@@ -7,6 +7,9 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_DIR = path.join(__dirname, '..', '_site');
+// Matches PATH_PREFIX in .eleventy.js -- the site is a GitHub Pages project page, served
+// under this subpath, but the physical _site/ layout on disk doesn't include it.
+const PATH_PREFIX = '/patternfly-design-fa/';
 
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -18,7 +21,8 @@ function walk(dir, out = []) {
 }
 
 function resolveUrlToFile(urlPath) {
-  const clean = urlPath.split('#')[0].split('?')[0];
+  let clean = urlPath.split('#')[0].split('?')[0];
+  if (clean.startsWith(PATH_PREFIX)) clean = '/' + clean.slice(PATH_PREFIX.length);
   if (clean === '' || clean === '/') return path.join(SITE_DIR, 'index.html');
   const withoutTrailingSlash = clean.replace(/\/$/, '');
   const asIs = path.join(SITE_DIR, clean);

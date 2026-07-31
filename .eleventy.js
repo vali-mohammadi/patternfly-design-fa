@@ -9,6 +9,12 @@ const SECTION_TITLES = {
   "rast-be-chin": "راست‌به‌چین",
 };
 
+// GitHub Pages serves this as a project page (vali-mohammadi.github.io/patternfly-design-fa/),
+// not at the domain root -- every internal URL needs this prefix. Eleventy's `url` filter
+// applies it automatically in templates; the custom link-fixing transform below (which runs
+// on already-rendered HTML, outside Eleventy's own URL system) has to prepend it by hand.
+const PATH_PREFIX = "/patternfly-design-fa/";
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "_includes/assets": "assets" });
 
@@ -39,6 +45,7 @@ module.exports = function (eleventyConfig) {
       if (resolved.startsWith("content/")) {
         resolved = resolved.replace(/^content\//, "/").replace(/\.md$/, "");
         if (!resolved.endsWith("/")) resolved += "/";
+        resolved = path.posix.join(PATH_PREFIX, resolved);
         return `${attr}="${resolved}${fixedHash}"`;
       }
       // Outside content/ (docs/decisions, docs/glossary.md, research/...) is not part of
@@ -48,6 +55,12 @@ module.exports = function (eleventyConfig) {
       return `${attr}="${ghUrl}${fixedHash}"`;
     });
   });
+
+  // page.url already carries PATH_PREFIX once pathPrefix is configured below; templates
+  // that need to inspect URL segments (the breadcrumb) need the prefix-free form back.
+  eleventyConfig.addFilter("stripPathPrefix", (url) =>
+    url.startsWith(PATH_PREFIX) ? "/" + url.slice(PATH_PREFIX.length) : url
+  );
 
   eleventyConfig.addCollection("sections", (collectionApi) => {
     const items = collectionApi.getAll();
@@ -72,6 +85,7 @@ module.exports = function (eleventyConfig) {
       includes: "../_includes",
       output: "_site",
     },
+    pathPrefix: PATH_PREFIX,
     markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",
   };
