@@ -38,9 +38,21 @@ for (const root of roots) {
   else if (root.endsWith('.md')) files.push(root);
 }
 
+function isExempt(text) {
+  if (!text.startsWith('---\n')) return false;
+  const end = text.indexOf('\n---', 4);
+  if (end === -1) return false;
+  return /^lint_exempt_encoding:\s*true\s*$/m.test(text.slice(4, end));
+}
+
 let violationCount = 0;
+let exemptCount = 0;
 for (const file of files) {
   const text = fs.readFileSync(file, 'utf8');
+  if (isExempt(text)) {
+    exemptCount++;
+    continue;
+  }
   const lines = text.split('\n');
   for (const rule of FORBIDDEN) {
     lines.forEach((line, i) => {
@@ -53,10 +65,11 @@ for (const file of files) {
   }
 }
 
+const exemptNote = exemptCount ? ` (${exemptCount} فایل با \`lint_exempt_encoding: true\` معاف شد)` : '';
 if (violationCount === 0) {
-  console.log(`تمیز — ${files.length} فایل بررسی شد، هیچ خطای کدگذاری یافت نشد.`);
+  console.log(`تمیز — ${files.length} فایل بررسی شد${exemptNote}، هیچ خطای کدگذاری یافت نشد.`);
   process.exit(0);
 } else {
-  console.log(`\n${violationCount} خطای کدگذاری یافت شد در ${files.length} فایل بررسی‌شده.`);
+  console.log(`\n${violationCount} خطای کدگذاری یافت شد در ${files.length} فایل بررسی‌شده${exemptNote}.`);
   process.exit(1);
 }

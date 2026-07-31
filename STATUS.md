@@ -35,14 +35,23 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 0**
+**مجموع صفحات دارای front matter در `content/`: 6**
 
 | وضعیت | تعداد |
 |---|---|
-| پیش‌نویس | 0 |
-| ترجمه‌شده | 0 |
+| پیش‌نویس | 1 |
+| ترجمه‌شده | 5 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
+
+| صفحه | عنوان | وضعیت |
+|---|---|---|
+| `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
+| `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
+| `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |
+| `content/rast-be-chin/qarinesazi.md` | اصول قرینه‌سازی | ترجمه‌شده |
+| `content/rast-be-chin/taghvim.md` | تقویم و تاریخ | ترجمه‌شده |
+| `content/rast-be-chin/taypografi.md` | تایپوگرافی و اعداد فارسی | ترجمه‌شده |
 
 <!-- STATUS:AUTO:END -->
 
