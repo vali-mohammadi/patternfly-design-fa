@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 62**
+**مجموع صفحات دارای front matter در `content/`: 64**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 62 |
+| ترجمه‌شده | 64 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -86,6 +86,8 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/list-view.md` | نمای فهرستی | ترجمه‌شده |
 | `content/olguha/login.md` | صفحهٔ ورود | ترجمه‌شده |
 | `content/olguha/masthead.md` | هدر برنامه | ترجمه‌شده |
+| `content/olguha/modal-overlay.md` | روی‌هم‌افکن مودال | ترجمه‌شده |
+| `content/olguha/modeless-overlay.md` | روی‌هم‌افکن بدون‌مودال | ترجمه‌شده |
 | `content/olguha/multi-factor-login.md` | ورود چندمرحله‌ای | ترجمه‌شده |
 | `content/olguha/pagination.md` | صفحه‌بندی | ترجمه‌شده |
 | `content/olguha/progressive-disclosure.md` | افشای تدریجی | ترجمه‌شده |

@@ -81,8 +81,10 @@
 | `content/olguha/inline-edit.md` | ویرایش درون‌خطی | `pattern-library/forms-and-controls/inline-edit/` | نگه‌داشته‌شده — موقعیت دکمه‌های ذخیره/لغو در همهٔ نماها قرینه شد؛ آیکون‌های تیک/X خودشان قرینه نشدند فقط موقعیتشان؛ مرحلهٔ ۷د |
 | `content/olguha/date-and-time.md` | تاریخ و ساعت | `pattern-library/forms-and-controls/date-and-time/` | ادغام‌وپالایش‌شده — تقویم میلادی‌محور اصلی به شمسی اصلاح شد (ارجاع به taghvim.md)؛ آیکون تقویم/ساعت قرینه شد؛ دکمهٔ قبل‌ازظهر/بعدازظهر با پیشنهاد اصیل قالب ۲۴ساعته جایگزین شد؛ مرحلهٔ ۷ه |
 | `content/olguha/slider.md` | اسلایدر | `pattern-library/forms-and-controls/slider/` | نگه‌داشته‌شده — برچسب، ناحیهٔ پرشده، و فیلد ورودی قرینه شدند؛ مرحلهٔ ۷ه |
-| `content/olguha/language-selector.md` | انتخاب‌گر زبان | `pattern-library/forms-and-controls/language-selector/` | نگه‌داشته‌شده — ⚠️ اولین کاربرد واقعی `lint_exempt_encoding` (نقل‌قول واقعی «العربية»)؛ جای‌گیری در صفحهٔ ورود قرینه شد؛ مرحلهٔ ۷ه |
+| `content/olguha/language-selector.md` | انتخاب‌گر زبان | `pattern-library/forms-and-controls/language-selector/` | نگه‌داشته‌شده — ⚠️ اولین کاربرد واقعی `lint_exempt_encoding` (نقل‌قول واقعی نام عربیِ زبان عربی)؛ جای‌گیری در صفحهٔ ورود قرینه شد؛ مرحلهٔ ۷ه |
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | `pattern-library/forms-and-controls/copy-to-clipboard/` | نگه‌داشته‌شده — محو متن و فلش گسترش قرینه شدند، آیکون تیک قرینه نشد؛ مرحلهٔ ۷ه |
+| `content/olguha/modal-overlay.md` | روی‌هم‌افکن مودال | `pattern-library/forms-and-controls/modal-overlay/` | ادغام‌وپالایش‌شده — چیدمان دکمه/عنوان/بستن به `moallefeha/modal.md` ارجاع داده شد؛ مرحلهٔ ۷و |
+| `content/olguha/modeless-overlay.md` | روی‌هم‌افکن بدون‌مودال | `pattern-library/forms-and-controls/modeless-overlay/` | نگه‌داشته‌شده — پیوند مفهومی با اصطلاح رزروشدهٔ Drawer در گلوسری ثبت شد؛ مرحلهٔ ۷و |
 
 ## `content/rast-be-chin/`
 

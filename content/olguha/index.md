@@ -67,3 +67,5 @@ status: translated
 - [اسلایدر](./slider)
 - [انتخاب‌گر زبان](./language-selector)
 - [کپی در کلیپ‌بورد](./copy-to-clipboard)
+- [روی‌هم‌افکن مودال](./modal-overlay)
+- [روی‌هم‌افکن بدون‌مودال](./modeless-overlay)
