@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 9**
+**مجموع صفحات دارای front matter در `content/`: 17**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 1 |
-| ترجمه‌شده | 8 |
+| ترجمه‌شده | 16 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -49,6 +49,14 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/mabani/icons.md` | آیکون‌ها | ترجمه‌شده |
 | `content/mabani/index.md` | مبانی | ترجمه‌شده |
 | `content/mabani/typography.md` | تایپوگرافی | ترجمه‌شده |
+| `content/moallefeha/about-modal.md` | پنجرهٔ دربارهٔ برنامه | ترجمه‌شده |
+| `content/moallefeha/button.md` | دکمه | ترجمه‌شده |
+| `content/moallefeha/forms.md` | فرم‌ها | ترجمه‌شده |
+| `content/moallefeha/index.md` | مؤلفه‌ها | ترجمه‌شده |
+| `content/moallefeha/keshuyi.md` | منوی کشویی | ترجمه‌شده |
+| `content/moallefeha/modal.md` | مودال | ترجمه‌شده |
+| `content/moallefeha/navigation-system.md` | نظام راهبری | ترجمه‌شده |
+| `content/moallefeha/progress-bar.md` | نوار پیشرفت | ترجمه‌شده |
 | `content/rast-be-chin/damha.md` | دام‌های رایج | ترجمه‌شده |
 | `content/rast-be-chin/farhang.md` | فرهنگ بصری و زمینهٔ محلی | پیش‌نویس |
 | `content/rast-be-chin/index.md` | راست‌به‌چین | ترجمه‌شده |

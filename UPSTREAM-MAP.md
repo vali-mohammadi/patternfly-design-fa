@@ -24,7 +24,14 @@
 
 | مسیر فارسی | عنوان | مسیر(های) بالادستی | وضعیت |
 |---|---|---|---|
-| *(هنوز خالی)* | | `patternfly-4/components/` | در انتظار #8 |
+| `content/moallefeha/index.md` | مؤلفه‌ها | — | تازه‌بدون‌منبع (صفحهٔ فهرست) |
+| `content/moallefeha/about-modal.md` | پنجرهٔ دربارهٔ برنامه | `patternfly-4/components/about-modal/design.md` | نگه‌داشته‌شده — هم‌پوشانی با `pattern-library/communication/about-modal` در مرحلهٔ ۸ ادغام می‌شود |
+| `content/moallefeha/button.md` | دکمه | `patternfly-4/components/button/design.md` | نگه‌داشته‌شده — چیدمان دکمه‌ها قرینه شد؛ معادل Tertiary («سوم») آزمایشی است |
+| `content/moallefeha/keshuyi.md` | منوی کشویی | `patternfly-4/components/dropdown/design.md` | نگه‌داشته‌شده |
+| `content/moallefeha/forms.md` | فرم‌ها | `patternfly-4/components/forms/design.md` | نگه‌داشته‌شده — چیدمان برچسب و دکمه قرینه شد؛ معادل Popover («بازشو») آزمایشی است |
+| `content/moallefeha/modal.md` | مودال | `patternfly-4/components/modal/design.md` | نگه‌داشته‌شده — چیدمان دکمه قرینه شد |
+| `content/moallefeha/navigation-system.md` | نظام راهبری | `patternfly-4/components/navigation-system/design.md` | نگه‌داشته‌شده — جای‌گیری راهبری عمودی قرینه شد |
+| `content/moallefeha/progress-bar.md` | نوار پیشرفت | `patternfly-4/components/progress-bar/design.md` | نگه‌داشته‌شده — جهت پرشدن قرینه شد |
 
 ## `content/olguha/`
 
