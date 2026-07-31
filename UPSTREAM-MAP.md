@@ -85,6 +85,8 @@
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | `pattern-library/forms-and-controls/copy-to-clipboard/` | نگه‌داشته‌شده — محو متن و فلش گسترش قرینه شدند، آیکون تیک قرینه نشد؛ مرحلهٔ ۷ه |
 | `content/olguha/modal-overlay.md` | روی‌هم‌افکن مودال | `pattern-library/forms-and-controls/modal-overlay/` | ادغام‌وپالایش‌شده — چیدمان دکمه/عنوان/بستن به `moallefeha/modal.md` ارجاع داده شد؛ مرحلهٔ ۷و |
 | `content/olguha/modeless-overlay.md` | روی‌هم‌افکن بدون‌مودال | `pattern-library/forms-and-controls/modeless-overlay/` | نگه‌داشته‌شده — پیوند مفهومی با اصطلاح رزروشدهٔ Drawer در گلوسری ثبت شد؛ مرحلهٔ ۷و |
+| `content/olguha/file-upload.md` | بارگذاری فایل | `pattern-library/forms-and-controls/file-upload/` | نگه‌داشته‌شده — جای‌گیری آیکون وضعیت/اندازهٔ فایل قرینه شد؛ مرحلهٔ ۷ز — **آخرین دستهٔ مرحلهٔ ۷** |
+| `content/olguha/drag-and-drop.md` | کشیدن‌وانداختن | `pattern-library/forms-and-controls/drag-and-drop/` | نگه‌داشته‌شده — جای‌گیری آیکون دستگیره قرینه شد؛ ارجاعات رو به جلو در `list-view.md` و `canvas-view.md` به لینک واقعی ارتقا یافتند؛ مرحلهٔ ۷ز — **آخرین دستهٔ مرحلهٔ ۷، ۸۱ فایل بالادستی تکمیل شد** |
 
 ## `content/rast-be-chin/`
 

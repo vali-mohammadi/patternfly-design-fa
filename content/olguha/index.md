@@ -69,3 +69,5 @@ status: translated
 - [کپی در کلیپ‌بورد](./copy-to-clipboard)
 - [روی‌هم‌افکن مودال](./modal-overlay)
 - [روی‌هم‌افکن بدون‌مودال](./modeless-overlay)
+- [بارگذاری فایل](./file-upload)
+- [کشیدن‌وانداختن](./drag-and-drop)

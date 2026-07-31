@@ -35,12 +35,12 @@
 
 _تولیدشده خودکار توسط `script/status-fa.js` — دستی ویرایش نکنید._
 
-**مجموع صفحات دارای front matter در `content/`: 64**
+**مجموع صفحات دارای front matter در `content/`: 66**
 
 | وضعیت | تعداد |
 |---|---|
 | پیش‌نویس | 0 |
-| ترجمه‌شده | 64 |
+| ترجمه‌شده | 66 |
 | بازبینی‌شده | 0 |
 | منتشرشده | 0 |
 
@@ -70,10 +70,12 @@ _تولیدشده خودکار توسط `script/status-fa.js` — دستی وی�
 | `content/olguha/copy-to-clipboard.md` | کپی در کلیپ‌بورد | ترجمه‌شده |
 | `content/olguha/data-input.md` | ورودی داده | ترجمه‌شده |
 | `content/olguha/date-and-time.md` | تاریخ و ساعت | ترجمه‌شده |
+| `content/olguha/drag-and-drop.md` | کشیدن‌وانداختن | ترجمه‌شده |
 | `content/olguha/dual-list-selector.md` | انتخاب‌گر دوفهرستی | ترجمه‌شده |
 | `content/olguha/errors-and-validation.md` | خطاها و اعتبارسنجی | ترجمه‌شده |
 | `content/olguha/expand-collapse-section.md` | بخش باز/بسته‌شدنی | ترجمه‌شده |
 | `content/olguha/field-labeling.md` | برچسب‌گذاری فیلد | ترجمه‌شده |
+| `content/olguha/file-upload.md` | بارگذاری فایل | ترجمه‌شده |
 | `content/olguha/filter.md` | فیلتر | ترجمه‌شده |
 | `content/olguha/find.md` | یافتن | ترجمه‌شده |
 | `content/olguha/help-on-forms.md` | کمک روی فرم‌ها | ترجمه‌شده |
